@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+networkx
+vaderSentiment
+textstat
+torch
+pytest

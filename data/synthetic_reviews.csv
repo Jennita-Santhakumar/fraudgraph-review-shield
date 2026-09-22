@@ -1,0 +1,1192 @@
+review_id,reviewer_id,product_id,rating,text,timestamp,is_shill,reviewer_is_shill
+R001173,S00039,P0037,3,"I bought this accessory last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-01-01 00:00:00.000000,0,1
+R000904,U00257,P0018,4,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-01-01 07:00:00.000000,0,0
+R000267,U00078,P0035,5,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-02 00:00:00.000000,0,0
+R000856,U00243,P0039,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-01-02 10:00:00.000000,0,0
+R000213,U00063,P0019,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-01-02 12:00:00.000000,0,0
+R000255,U00076,P0042,5,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-01-02 20:00:00.000000,0,0
+R000252,U00075,P0037,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-01-04 04:00:00.000000,0,0
+R000793,U00227,P0001,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-01-04 14:00:00.000000,0,0
+R000900,U00256,P0026,3,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-01-05 13:00:00.000000,0,0
+R000646,U00188,P0020,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-05 18:00:00.000000,0,0
+R000277,U00081,P0032,3,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-01-05 19:00:00.000000,0,0
+R000700,U00201,P0035,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-06 22:00:00.000000,0,0
+R000078,U00025,P0003,2,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-07 02:00:00.000000,0,0
+R000272,U00080,P0024,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-01-07 14:00:00.000000,0,0
+R000839,U00238,P0011,2,"I bought this item last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-01-07 22:00:00.000000,0,0
+R000645,U00188,P0030,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-01-07 22:00:00.000000,0,0
+R001167,S00038,P0043,2,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-01-08 00:00:00.000000,0,1
+R000345,U00099,P0008,5,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-01-08 07:00:00.000000,0,0
+R000049,U00016,P0034,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-01-08 19:00:00.000000,0,0
+R000569,U00166,P0010,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-01-09 05:00:00.000000,0,0
+R000353,U00102,P0008,3,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-09 09:00:00.000000,0,0
+R000398,U00115,P0019,2,"I bought this device last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-01-10 01:00:00.000000,0,0
+R000705,U00202,P0059,3,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-01-10 04:00:00.000000,0,0
+R000074,U00024,P0016,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-01-10 13:00:00.000000,0,0
+R000435,U00126,P0002,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-01-10 17:00:00.000000,0,0
+R000194,U00058,P0052,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-01-10 22:00:00.000000,0,0
+R000214,U00063,P0016,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-01-11 09:00:00.000000,0,0
+R000893,U00255,P0052,4,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-01-12 09:00:00.000000,0,0
+R000022,U00009,P0049,4,"The cable on mine arrived slightly scratched, otherwise a reasonable product.",2024-01-12 10:00:00.000000,0,0
+R000609,U00178,P0051,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-01-12 13:00:00.000000,0,0
+R000668,U00194,P0002,2,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-12 14:00:00.000000,0,0
+R000549,U00159,P0032,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-01-13 03:00:00.000000,0,0
+R000828,U00235,P0020,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-13 16:00:00.000000,0,0
+R000138,U00041,P0013,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-01-14 00:00:00.000000,0,0
+R000159,U00047,P0005,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-01-14 10:00:00.000000,0,0
+R001003,S00010,P0006,3,"I bought this item last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-01-15 00:00:00.000000,0,1
+R000701,U00201,P0033,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-01-15 02:00:00.000000,0,0
+R000694,U00200,P0027,4,"The casing on mine arrived slightly scratched, otherwise a reasonable item.",2024-01-15 11:00:00.000000,0,0
+R000738,U00210,P0052,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-01-15 15:00:00.000000,0,0
+R000434,U00125,P0032,4,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-15 16:00:00.000000,0,0
+R000204,U00061,P0033,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-01-15 18:00:00.000000,0,0
+R000761,U00217,P0027,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-01-16 00:00:00.000000,0,0
+R000850,U00241,P0023,3,"The screen on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-01-16 02:00:00.000000,0,0
+R000009,U00003,P0013,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-16 03:00:00.000000,0,0
+R000092,U00028,P0019,5,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-01-16 04:00:00.000000,0,0
+R000642,U00188,P0006,1,"I bought this product last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-01-16 05:00:00.000000,0,0
+R000715,U00203,P0049,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-16 10:00:00.000000,0,0
+R001085,S00024,P0053,3,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-17 00:00:00.000000,0,1
+R000791,U00227,P0049,4,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-17 17:00:00.000000,0,0
+R000459,U00132,P0046,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-01-17 22:00:00.000000,0,0
+R000209,U00062,P0037,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-18 02:00:00.000000,0,0
+R000251,U00075,P0036,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-01-18 03:00:00.000000,0,0
+R000094,U00028,P0051,3,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-18 08:00:00.000000,0,0
+R000790,U00227,P0043,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-01-18 18:00:00.000000,0,0
+R000326,U00094,P0029,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-19 08:00:00.000000,0,0
+R000376,U00109,P0003,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-19 16:00:00.000000,0,0
+R000552,U00161,P0005,2,"I bought this accessory last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-01-19 20:00:00.000000,0,0
+R000491,U00142,P0001,5,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-19 23:00:00.000000,0,0
+R000382,U00110,P0022,2,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-01-20 00:00:00.000000,0,0
+R000147,U00045,P0048,4,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-01-20 14:00:00.000000,0,0
+R000432,U00125,P0038,3,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-01-20 22:00:00.000000,0,0
+R000411,U00118,P0039,3,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-21 08:00:00.000000,0,0
+R000024,U00010,P0013,3,"The strap on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-01-22 06:00:00.000000,0,0
+R000748,U00213,P0034,4,"I bought this device last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-01-22 10:00:00.000000,0,0
+R001101,S00027,P0026,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-01-24 00:00:00.000000,0,1
+R000477,U00137,P0000,4,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-01-24 04:00:00.000000,0,0
+R000463,U00134,P0026,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-01-24 23:00:00.000000,0,0
+R000403,U00115,P0003,2,"The screen on mine arrived slightly scratched, otherwise a reasonable tool.",2024-01-25 00:00:00.000000,0,0
+R000769,U00220,P0001,4,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-25 09:00:00.000000,0,0
+R000777,U00223,P0033,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-01-25 20:00:00.000000,0,0
+R000775,U00223,P0015,4,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-01-26 04:00:00.000000,0,0
+R000804,U00229,P0039,3,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-01-26 16:00:00.000000,0,0
+R000660,U00192,P0054,3,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-01-27 11:00:00.000000,0,0
+R000604,U00177,P0042,1,"The casing on mine arrived slightly scratched, otherwise a reasonable product.",2024-01-27 12:00:00.000000,0,0
+R000584,U00171,P0038,4,"I bought this gadget last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-01-27 23:00:00.000000,0,0
+R000946,S00001,P0003,2,"The casing on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-01-28 00:00:00.000000,0,1
+R000592,U00175,P0007,3,"I bought this tool last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-01-29 18:00:00.000000,0,0
+R000648,U00189,P0019,4,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-01-29 20:00:00.000000,0,0
+R000518,U00149,P0049,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-30 00:00:00.000000,0,0
+R000180,U00055,P0008,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-01-30 18:00:00.000000,0,0
+R000040,U00013,P0032,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-01-31 09:00:00.000000,0,0
+R000111,U00033,P0010,3,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-01-31 22:00:00.000000,0,0
+R000778,U00224,P0016,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-02 00:00:00.000000,0,0
+R000860,U00244,P0010,4,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-02-02 09:00:00.000000,0,0
+R000537,U00155,P0051,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-02 09:00:00.000000,0,0
+R000816,U00232,P0004,1,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-02-02 14:00:00.000000,0,0
+R000659,U00191,P0057,2,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-02-02 16:00:00.000000,0,0
+R000149,U00045,P0049,2,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-02-03 04:00:00.000000,0,0
+R000481,U00138,P0003,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-03 05:00:00.000000,0,0
+R000683,U00198,P0002,4,"I bought this device last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-02-03 10:00:00.000000,0,0
+R000135,U00040,P0042,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-02-03 21:00:00.000000,0,0
+R000428,U00123,P0053,4,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-04 03:00:00.000000,0,0
+R000374,U00109,P0008,4,"The cable on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-02-04 17:00:00.000000,0,0
+R000465,U00134,P0052,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-02-04 20:00:00.000000,0,0
+R000757,U00216,P0049,3,"I bought this accessory last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-02-04 21:00:00.000000,0,0
+R000714,U00203,P0020,4,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-05 06:00:00.000000,0,0
+R000543,U00157,P0053,2,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-02-05 11:00:00.000000,0,0
+R000803,U00229,P0041,1,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-05 21:00:00.000000,0,0
+R000310,U00090,P0001,2,"I bought this tool last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-02-06 06:00:00.000000,0,0
+R000042,U00013,P0011,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-02-07 14:00:00.000000,0,0
+R000236,U00070,P0026,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-07 15:00:00.000000,0,0
+R000095,U00028,P0041,3,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-02-07 20:00:00.000000,0,0
+R000075,U00024,P0059,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-08 03:00:00.000000,0,0
+R000285,U00084,P0033,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-08 21:00:00.000000,0,0
+R000241,U00072,P0037,4,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-02-10 09:00:00.000000,0,0
+R000253,U00075,P0001,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-10 14:00:00.000000,0,0
+R000244,U00074,P0036,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-10 20:00:00.000000,0,0
+R000019,U00008,P0010,4,"The screen on mine arrived slightly scratched, otherwise a reasonable product.",2024-02-11 16:00:00.000000,0,0
+R000200,U00059,P0053,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-02-11 17:00:00.000000,0,0
+R000734,U00208,P0032,2,"The cable on mine arrived slightly scratched, otherwise a reasonable device.",2024-02-11 22:00:00.000000,0,0
+R000088,U00027,P0020,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-02-12 00:00:00.000000,0,0
+R000460,U00132,P0015,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-02-12 01:00:00.000000,0,0
+R000119,U00036,P0032,4,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-12 02:00:00.000000,0,0
+R000414,U00120,P0014,2,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-02-12 14:00:00.000000,0,0
+R000832,U00236,P0037,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-13 02:00:00.000000,0,0
+R000155,U00046,P0035,3,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-13 03:00:00.000000,0,0
+R000557,U00163,P0015,3,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-13 05:00:00.000000,0,0
+R000321,U00092,P0033,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-02-13 22:00:00.000000,0,0
+R000032,U00012,P0004,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-13 23:00:00.000000,0,0
+R000854,U00242,P0013,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-02-14 22:00:00.000000,0,0
+R000265,U00078,P0013,2,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-02-15 03:00:00.000000,0,0
+R000802,U00229,P0010,3,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-15 04:00:00.000000,0,0
+R000859,U00244,P0034,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-15 07:00:00.000000,0,0
+R000143,U00044,P0045,5,"The strap on mine arrived slightly scratched, otherwise a reasonable item.",2024-02-15 12:00:00.000000,0,0
+R000318,U00091,P0046,4,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-02-15 22:00:00.000000,0,0
+R000331,U00096,P0026,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-17 03:00:00.000000,0,0
+R000012,U00005,P0035,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-02-17 11:00:00.000000,0,0
+R000788,U00226,P0018,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-02-18 16:00:00.000000,0,0
+R000068,U00022,P0015,1,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-18 16:00:00.000000,0,0
+R000585,U00172,P0045,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-18 19:00:00.000000,0,0
+R000223,U00066,P0003,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-19 08:00:00.000000,0,0
+R000903,U00257,P0046,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-02-19 09:00:00.000000,0,0
+R000099,U00029,P0016,3,"The cable on mine arrived slightly scratched, otherwise a reasonable product.",2024-02-19 12:00:00.000000,0,0
+R000221,U00065,P0008,1,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-02-19 13:00:00.000000,0,0
+R000547,U00158,P0020,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-19 22:00:00.000000,0,0
+R000348,U00100,P0057,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-02-20 06:00:00.000000,0,0
+R000773,U00223,P0035,3,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-02-20 10:00:00.000000,0,0
+R000369,U00107,P0029,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-20 18:00:00.000000,0,0
+R000365,U00106,P0018,2,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-02-20 18:00:00.000000,0,0
+R000179,U00055,P0015,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-21 10:00:00.000000,0,0
+R000723,U00206,P0050,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-21 12:00:00.000000,0,0
+R000050,U00016,P0049,1,"The screen on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-02-21 13:00:00.000000,0,0
+R000581,U00170,P0048,3,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-21 23:00:00.000000,0,0
+R000067,U00022,P0006,5,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-22 00:00:00.000000,0,0
+R000863,U00246,P0009,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-02-22 14:00:00.000000,0,0
+R000380,U00110,P0054,4,"The battery on mine arrived slightly scratched, otherwise a reasonable tool.",2024-02-22 21:00:00.000000,0,0
+R000787,U00226,P0025,5,"The cable on mine arrived slightly scratched, otherwise a reasonable product.",2024-02-24 20:00:00.000000,0,0
+R000064,U00022,P0021,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-02-25 04:00:00.000000,0,0
+R000665,U00193,P0026,4,"I bought this item last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-02-25 16:00:00.000000,0,0
+R000325,U00094,P0007,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-25 22:00:00.000000,0,0
+R000502,U00144,P0055,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-02-26 04:00:00.000000,0,0
+R000590,U00174,P0021,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-02-26 05:00:00.000000,0,0
+R000367,U00107,P0021,5,"The cable on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-02-26 10:00:00.000000,0,0
+R000461,U00133,P0023,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-02-26 12:00:00.000000,0,0
+R000381,U00110,P0006,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-02-26 12:00:00.000000,0,0
+R000630,U00184,P0047,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-26 14:00:00.000000,0,0
+R000650,U00189,P0025,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-02-26 17:00:00.000000,0,0
+R000231,U00068,P0037,4,"I bought this tool last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-02-26 20:00:00.000000,0,0
+R000123,U00038,P0038,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-02-27 03:00:00.000000,0,0
+R000809,U00231,P0058,3,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-02-28 04:00:00.000000,0,0
+R000439,U00127,P0018,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-02-28 18:00:00.000000,0,0
+R000293,U00086,P0056,1,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-02-29 16:00:00.000000,0,0
+R000449,U00130,P0033,3,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-02-29 16:00:00.000000,0,0
+R000256,U00076,P0006,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-02-29 18:00:00.000000,0,0
+R000989,S00008,P0036,3,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-01 00:00:00.000000,0,1
+R000027,U00011,P0016,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-03-01 00:00:00.000000,0,0
+R000087,U00027,P0029,3,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-01 06:00:00.000000,0,0
+R000305,U00088,P0029,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-03-01 06:00:00.000000,0,0
+R000857,U00243,P0008,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-03-01 10:00:00.000000,0,0
+R000177,U00053,P0026,5,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-01 20:00:00.000000,0,0
+R000902,U00257,P0038,3,"I bought this accessory last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-03-02 17:00:00.000000,0,0
+R000589,U00174,P0037,3,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-03-02 19:00:00.000000,0,0
+R000089,U00027,P0048,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-03-04 01:00:00.000000,0,0
+R000266,U00078,P0017,2,"I bought this tool last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-03-04 12:00:00.000000,0,0
+R000908,U00258,P0015,4,"I bought this product last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-03-04 18:00:00.000000,0,0
+R000391,U00112,P0033,4,"I bought this device last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-03-05 04:00:00.000000,0,0
+R000193,U00058,P0026,4,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-03-05 08:00:00.000000,0,0
+R000311,U00090,P0053,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-06 09:00:00.000000,0,0
+R000906,U00257,P0044,5,"I bought this device last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-03-07 12:00:00.000000,0,0
+R000544,U00158,P0009,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-03-08 11:00:00.000000,0,0
+R000452,U00130,P0042,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-03-09 08:00:00.000000,0,0
+R000561,U00164,P0021,1,"The button on mine arrived slightly scratched, otherwise a reasonable device.",2024-03-09 19:00:00.000000,0,0
+R000464,U00134,P0010,2,"I bought this accessory last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-03-10 06:00:00.000000,0,0
+R000528,U00152,P0058,4,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-11 04:00:00.000000,0,0
+R000395,U00114,P0028,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-03-11 05:00:00.000000,0,0
+R000821,U00234,P0027,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-03-11 08:00:00.000000,0,0
+R000703,U00201,P0024,3,"I bought this product last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-03-11 09:00:00.000000,0,0
+R000526,U00151,P0017,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-12 01:00:00.000000,0,0
+R000016,U00007,P0010,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-03-13 00:00:00.000000,0,0
+R000758,U00216,P0039,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-13 07:00:00.000000,0,0
+R000771,U00222,P0018,1,"The cable on mine arrived slightly scratched, otherwise a reasonable item.",2024-03-13 13:00:00.000000,0,0
+R000070,U00023,P0010,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-13 19:00:00.000000,0,0
+R000137,U00041,P0043,4,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-13 21:00:00.000000,0,0
+R000224,U00066,P0016,2,"The cable on mine arrived slightly scratched, otherwise a reasonable item.",2024-03-14 00:00:00.000000,0,0
+R000296,U00087,P0001,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-03-14 04:00:00.000000,0,0
+R000109,U00032,P0006,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-03-14 16:00:00.000000,0,0
+R000689,U00199,P0036,4,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-03-14 16:00:00.000000,0,0
+R000479,U00137,P0005,5,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-14 19:00:00.000000,0,0
+R000618,U00181,P0013,2,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-03-15 12:00:00.000000,0,0
+R000634,U00186,P0034,2,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-03-15 15:00:00.000000,0,0
+R000320,U00092,P0023,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-16 06:00:00.000000,0,0
+R000536,U00155,P0029,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-03-16 12:00:00.000000,0,0
+R000474,U00136,P0014,4,"I bought this product last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-03-16 23:00:00.000000,0,0
+R000176,U00053,P0053,4,"I bought this product last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-03-17 12:00:00.000000,0,0
+R000583,U00171,P0012,2,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-03-18 02:00:00.000000,0,0
+R000827,U00235,P0040,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-03-18 19:00:00.000000,0,0
+R000328,U00094,P0043,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-03-18 22:00:00.000000,0,0
+R000408,U00117,P0055,2,"The cable on mine arrived slightly scratched, otherwise a reasonable product.",2024-03-19 02:00:00.000000,0,0
+R000693,U00200,P0043,2,"The button on mine arrived slightly scratched, otherwise a reasonable tool.",2024-03-19 21:00:00.000000,0,0
+R001168,S00038,P0045,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-03-20 00:00:00.000000,0,1
+R000607,U00178,P0043,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-20 02:00:00.000000,0,0
+R000158,U00047,P0034,2,"The casing on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-03-20 14:00:00.000000,0,0
+R000593,U00175,P0026,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-03-20 16:00:00.000000,0,0
+R001050,S00018,P0045,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-03-21 00:00:00.000000,0,1
+R000654,U00191,P0052,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-03-21 11:00:00.000000,0,0
+R000637,U00186,P0056,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-03-22 01:00:00.000000,0,0
+R000599,U00176,P0002,5,"The strap on mine arrived slightly scratched, otherwise a reasonable device.",2024-03-22 10:00:00.000000,0,0
+R000899,U00256,P0009,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-03-23 12:00:00.000000,0,0
+R000005,U00001,P0013,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-23 13:00:00.000000,0,0
+R000160,U00048,P0021,3,"I bought this device last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-03-23 13:00:00.000000,0,0
+R000521,U00150,P0028,1,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-23 19:00:00.000000,0,0
+R000881,U00250,P0007,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-03-23 20:00:00.000000,0,0
+R000548,U00158,P0059,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-03-23 20:00:00.000000,0,0
+R000485,U00140,P0018,4,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-03-24 17:00:00.000000,0,0
+R000576,U00169,P0034,2,"The battery on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-03-25 00:00:00.000000,0,0
+R000212,U00063,P0017,3,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-03-26 14:00:00.000000,0,0
+R000476,U00137,P0039,3,"I bought this product last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-03-27 01:00:00.000000,0,0
+R000789,U00227,P0011,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-27 03:00:00.000000,0,0
+R000514,U00148,P0017,2,"The battery on mine arrived slightly scratched, otherwise a reasonable product.",2024-03-27 18:00:00.000000,0,0
+R000600,U00176,P0036,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-03-27 19:00:00.000000,0,0
+R000063,U00021,P0026,5,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-28 02:00:00.000000,0,0
+R000136,U00041,P0028,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-03-28 03:00:00.000000,0,0
+R000890,U00254,P0024,3,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-28 16:00:00.000000,0,0
+R000695,U00200,P0035,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-03-28 17:00:00.000000,0,0
+R000871,U00249,P0022,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-03-29 01:00:00.000000,0,0
+R001095,S00026,P0006,3,"I bought this gadget last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-03-30 00:00:00.000000,0,1
+R000982,S00007,P0045,5,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-03-30 00:00:00.000000,0,1
+R000239,U00072,P0050,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-03-30 01:00:00.000000,0,0
+R000312,U00090,P0042,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-03-30 17:00:00.000000,0,0
+R000542,U00157,P0056,3,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-03-30 17:00:00.000000,0,0
+R000357,U00105,P0001,4,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-03-30 21:00:00.000000,0,0
+R000083,U00026,P0038,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-03-31 05:00:00.000000,0,0
+R000314,U00091,P0039,3,"I bought this product last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-03-31 05:00:00.000000,0,0
+R000670,U00194,P0022,3,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-03-31 10:00:00.000000,0,0
+R000797,U00228,P0050,3,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-03-31 13:00:00.000000,0,0
+R000898,U00256,P0047,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-01 03:00:00.000000,0,0
+R000615,U00179,P0036,3,"I bought this product last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-04-01 06:00:00.000000,0,0
+R000093,U00028,P0039,4,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-04-01 13:00:00.000000,0,0
+R001182,SL00002,P0040,5,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-04-01 23:10:41.482074,1,1
+R000743,U00211,P0030,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-02 09:00:00.000000,0,0
+R000114,U00034,P0055,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-02 14:00:00.000000,0,0
+R000737,U00210,P0016,4,"The battery on mine arrived slightly scratched, otherwise a reasonable item.",2024-04-02 16:00:00.000000,0,0
+R000257,U00076,P0054,2,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-04-02 22:00:00.000000,0,0
+R000719,U00205,P0018,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-04-03 12:00:00.000000,0,0
+R000351,U00101,P0007,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-03 15:00:00.000000,0,0
+R000970,S00006,P0007,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-04-04 02:20:44.401557,1,1
+R000794,U00228,P0009,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-04 04:00:00.000000,0,0
+R000966,S00005,P0007,5,"Wow just wow, this device is a game changer, perfect, 5 stars, must buy immediately!!!",2024-04-04 12:21:04.469551,1,1
+R000728,U00206,P0034,2,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-04-04 15:00:00.000000,0,0
+R000980,S00007,P0007,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-04 15:58:16.998740,1,1
+R000985,S00008,P0007,5,"Absolutely incredible item, changed my life, everyone needs this, 5/5 stars!!!",2024-04-04 20:05:28.857330,1,1
+R000978,S00007,P0007,5,"Wow just wow, this item is a game changer, perfect, 5 stars, must buy immediately!!!",2024-04-04 20:56:09.968019,1,1
+R000992,S00009,P0007,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-04-04 23:52:08.830742,1,1
+R000963,S00005,P0007,5,"Absolutely incredible gadget, changed my life, everyone needs this, 5/5 stars!!!",2024-04-05 00:44:54.093164,1,1
+R000983,S00008,P0007,5,"Absolutely incredible accessory, changed my life, everyone needs this, 5/5 stars!!!",2024-04-05 03:09:31.909807,1,1
+R000975,S00007,P0007,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-05 04:37:13.415327,1,1
+R000979,S00007,P0007,5,"Absolutely incredible product, changed my life, everyone needs this, 5/5 stars!!!",2024-04-05 05:51:21.813918,1,1
+R000247,U00074,P0007,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-05 07:00:00.000000,0,0
+R000847,U00240,P0049,4,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-04-05 11:00:00.000000,0,0
+R000744,U00211,P0003,3,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-04-05 15:00:00.000000,0,0
+R000770,U00221,P0038,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-05 23:00:00.000000,0,0
+R000977,S00007,P0007,5,"AMAZING product!!! Best gadget I have EVER purchased, 5 stars, buy it now!!!",2024-04-06 00:47:28.370893,1,1
+R000981,S00007,P0007,4,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-04-06 04:47:41.372730,1,1
+R000964,S00005,P0007,5,"Best purchase ever!!! This item is perfect in every way, highly recommend to all!!!",2024-04-06 07:43:33.201826,1,1
+R000784,U00225,P0024,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-06 10:00:00.000000,0,0
+R000986,S00008,P0007,5,"Absolutely incredible accessory, changed my life, everyone needs this, 5/5 stars!!!",2024-04-06 18:03:34.371370,1,1
+R000990,S00009,P0007,5,"Best purchase ever!!! This device is perfect in every way, highly recommend to all!!!",2024-04-06 19:04:51.238305,1,1
+R000529,U00152,P0031,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-06 21:00:00.000000,0,0
+R000993,S00009,P0007,5,"I bought this item last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-04-06 22:49:54.481973,1,1
+R000984,S00008,P0007,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-06 23:15:56.978100,1,1
+R000971,S00006,P0007,5,"Best purchase ever!!! This tool is perfect in every way, highly recommend to all!!!",2024-04-07 00:46:43.858278,1,1
+R000973,S00006,P0007,5,"I bought this device last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-04-07 01:27:56.392361,1,1
+R000546,U00158,P0010,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-04-07 06:00:00.000000,0,0
+R000965,S00005,P0007,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-04-07 07:27:00.258027,1,1
+R000991,S00009,P0007,5,"Best purchase ever!!! This item is perfect in every way, highly recommend to all!!!",2024-04-07 07:40:43.762100,1,1
+R001183,SL00002,P0016,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-04-07 09:41:10.477330,0,1
+R000969,S00006,P0007,5,"Five stars!!! Amazing quality product, works perfectly, exceeded all expectations!!!",2024-04-07 10:08:27.353378,1,1
+R000976,S00007,P0007,5,"Wow just wow, this device is a game changer, perfect, 5 stars, must buy immediately!!!",2024-04-07 13:16:49.030163,1,1
+R000987,S00008,P0007,4,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-04-07 13:23:27.345768,1,1
+R000994,S00009,P0007,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-07 15:13:08.991334,1,1
+R000972,S00006,P0007,5,"Absolutely incredible product, changed my life, everyone needs this, 5/5 stars!!!",2024-04-07 15:39:29.475202,1,1
+R001081,S00023,P0007,5,"The strap on mine arrived slightly scratched, otherwise a reasonable item.",2024-04-08 00:00:00.000000,0,1
+R000621,U00181,P0034,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-04-08 07:00:00.000000,0,0
+R000122,U00038,P0027,3,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-04-08 08:00:00.000000,0,0
+R000866,U00247,P0017,4,"The screen on mine arrived slightly scratched, otherwise a reasonable tool.",2024-04-08 11:00:00.000000,0,0
+R001185,SL00002,P0018,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-04-08 13:36:21.867686,0,1
+R000717,U00204,P0002,4,"I bought this product last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-04-08 21:00:00.000000,0,0
+R000702,U00201,P0008,2,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-04-09 00:00:00.000000,0,0
+R000270,U00079,P0053,2,"The strap on mine arrived slightly scratched, otherwise a reasonable item.",2024-04-09 01:00:00.000000,0,0
+R000035,U00012,P0029,3,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-04-09 02:00:00.000000,0,0
+R000501,U00144,P0022,1,"I bought this accessory last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-04-09 02:00:00.000000,0,0
+R000628,U00184,P0014,4,"I bought this device last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-04-10 01:00:00.000000,0,0
+R001184,SL00002,P0021,5,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-04-10 05:32:38.280147,0,1
+R000531,U00153,P0022,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-10 23:00:00.000000,0,0
+R000196,U00059,P0017,3,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-04-11 16:00:00.000000,0,0
+R000330,U00095,P0040,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-12 01:00:00.000000,0,0
+R000686,U00198,P0043,3,"I bought this device last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-04-12 20:00:00.000000,0,0
+R000227,U00067,P0003,1,"The battery on mine arrived slightly scratched, otherwise a reasonable tool.",2024-04-13 21:00:00.000000,0,0
+R000666,U00193,P0029,3,"I bought this accessory last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-04-14 03:00:00.000000,0,0
+R000767,U00219,P0024,3,"The battery on mine arrived slightly scratched, otherwise a reasonable item.",2024-04-14 04:00:00.000000,0,0
+R000661,U00192,P0033,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-14 08:00:00.000000,0,0
+R000846,U00240,P0010,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-14 16:00:00.000000,0,0
+R000361,U00105,P0025,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-15 06:00:00.000000,0,0
+R000015,U00006,P0024,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-15 16:00:00.000000,0,0
+R000396,U00114,P0026,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-15 17:00:00.000000,0,0
+R000183,U00056,P0023,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-16 11:00:00.000000,0,0
+R000056,U00019,P0055,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-16 12:00:00.000000,0,0
+R000876,U00249,P0025,5,"I bought this gadget last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-04-16 21:00:00.000000,0,0
+R000594,U00175,P0037,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-17 13:00:00.000000,0,0
+R000271,U00079,P0009,1,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-04-17 15:00:00.000000,0,0
+R000300,U00088,P0015,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-17 18:00:00.000000,0,0
+R000742,U00211,P0035,2,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-04-18 01:00:00.000000,0,0
+R000307,U00089,P0054,4,"The button on mine arrived slightly scratched, otherwise a reasonable tool.",2024-04-18 08:00:00.000000,0,0
+R000760,U00217,P0024,1,"The battery on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-04-19 00:00:00.000000,0,0
+R000230,U00068,P0055,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-19 05:00:00.000000,0,0
+R000636,U00186,P0031,5,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-04-19 11:00:00.000000,0,0
+R000072,U00024,P0000,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-19 11:00:00.000000,0,0
+R000152,U00046,P0032,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-19 13:00:00.000000,0,0
+R000567,U00166,P0055,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-19 18:00:00.000000,0,0
+R001186,SL00002,P0039,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-19 18:32:33.438122,0,1
+R000688,U00199,P0020,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-20 00:00:00.000000,0,0
+R000619,U00181,P0012,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-20 10:00:00.000000,0,0
+R000447,U00130,P0043,3,"The button on mine arrived slightly scratched, otherwise a reasonable tool.",2024-04-20 20:00:00.000000,0,0
+R000786,U00226,P0011,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-21 06:00:00.000000,0,0
+R000156,U00046,P0028,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-04-21 10:00:00.000000,0,0
+R000303,U00088,P0009,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-21 13:00:00.000000,0,0
+R000506,U00145,P0021,2,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-04-22 03:00:00.000000,0,0
+R000195,U00058,P0031,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-22 14:00:00.000000,0,0
+R000710,U00203,P0013,1,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-22 22:00:00.000000,0,0
+R000086,U00027,P0019,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-23 03:00:00.000000,0,0
+R000174,U00053,P0017,1,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-23 16:00:00.000000,0,0
+R000512,U00147,P0045,3,"I bought this accessory last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-04-24 06:00:00.000000,0,0
+R000735,U00209,P0033,2,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-04-24 08:00:00.000000,0,0
+R000523,U00151,P0025,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-04-24 09:00:00.000000,0,0
+R000402,U00115,P0038,2,"The casing on mine arrived slightly scratched, otherwise a reasonable device.",2024-04-24 13:00:00.000000,0,0
+R001145,S00034,P0024,3,"The button on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-04-25 00:00:00.000000,0,1
+R000261,U00077,P0007,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-04-25 01:00:00.000000,0,0
+R000915,U00259,P0004,4,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-04-25 01:00:00.000000,0,0
+R000627,U00183,P0018,3,"I bought this gadget last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-04-25 04:00:00.000000,0,0
+R000162,U00048,P0029,4,"I bought this tool last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-04-25 18:00:00.000000,0,0
+R000264,U00078,P0003,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-25 21:00:00.000000,0,0
+R000844,U00239,P0026,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-04-26 07:00:00.000000,0,0
+R000741,U00211,P0024,4,"I bought this accessory last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-04-26 08:00:00.000000,0,0
+R000375,U00109,P0035,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-26 11:00:00.000000,0,0
+R001125,S00031,P0059,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-27 00:00:00.000000,0,1
+R000421,U00121,P0015,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-27 04:00:00.000000,0,0
+R000427,U00122,P0028,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-27 08:00:00.000000,0,0
+R000730,U00207,P0023,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-27 14:00:00.000000,0,0
+R000228,U00067,P0009,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-28 21:00:00.000000,0,0
+R000718,U00204,P0036,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-04-29 12:00:00.000000,0,0
+R000106,U00031,P0035,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-29 12:00:00.000000,0,0
+R000611,U00178,P0016,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-04-29 15:00:00.000000,0,0
+R000624,U00182,P0030,4,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-04-30 03:00:00.000000,0,0
+R000425,U00122,P0040,5,"I bought this product last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-04-30 10:00:00.000000,0,0
+R000591,U00174,P0032,2,"I bought this product last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-04-30 16:00:00.000000,0,0
+R000798,U00228,P0024,5,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-04-30 22:00:00.000000,0,0
+R000249,U00075,P0053,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-04-30 22:00:00.000000,0,0
+R001177,SL00001,P0017,5,"I bought this tool last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-05-01 00:12:16.885055,1,1
+R000169,U00050,P0024,4,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-05-01 04:00:00.000000,0,0
+R000905,U00257,P0049,4,"The screen on mine arrived slightly scratched, otherwise a reasonable product.",2024-05-01 06:00:00.000000,0,0
+R000048,U00016,P0048,2,"The battery on mine arrived slightly scratched, otherwise a reasonable device.",2024-05-01 12:00:00.000000,0,0
+R000121,U00037,P0038,3,"The screen on mine arrived slightly scratched, otherwise a reasonable product.",2024-05-01 21:00:00.000000,0,0
+R000364,U00106,P0033,5,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-02 19:00:00.000000,0,0
+R000842,U00239,P0043,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-05-03 05:00:00.000000,0,0
+R000704,U00202,P0038,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-03 07:00:00.000000,0,0
+R000756,U00216,P0038,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-03 16:00:00.000000,0,0
+R000823,U00234,P0000,3,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-05-03 19:00:00.000000,0,0
+R001178,SL00001,P0002,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-03 23:30:05.828585,0,1
+R000698,U00200,P0022,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-05-04 03:00:00.000000,0,0
+R000219,U00064,P0011,4,"I bought this gadget last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-05-04 17:00:00.000000,0,0
+R000335,U00096,P0056,4,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-05-05 04:00:00.000000,0,0
+R000673,U00195,P0058,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-05 10:00:00.000000,0,0
+R000262,U00078,P0028,2,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-05-06 00:00:00.000000,0,0
+R000745,U00212,P0057,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-06 12:00:00.000000,0,0
+R000691,U00199,P0049,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-05-07 17:00:00.000000,0,0
+R000216,U00063,P0007,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-05-07 20:00:00.000000,0,0
+R000571,U00168,P0013,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-07 20:00:00.000000,0,0
+R000962,S00004,P0043,3,"The button on mine arrived slightly scratched, otherwise a reasonable device.",2024-05-08 00:00:00.000000,0,1
+R000720,U00205,P0009,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-08 13:00:00.000000,0,0
+R000563,U00165,P0015,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-05-08 15:00:00.000000,0,0
+R000007,U00003,P0017,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-09 23:00:00.000000,0,0
+R000510,U00147,P0028,3,"The screen on mine arrived slightly scratched, otherwise a reasonable device.",2024-05-11 04:00:00.000000,0,0
+R001046,S00018,P0047,5,"Wow just wow, this tool is a game changer, perfect, 5 stars, must buy immediately!!!",2024-05-11 19:38:19.733520,1,1
+R000692,U00199,P0043,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-11 20:00:00.000000,0,0
+R001037,S00016,P0047,5,"Five stars!!! Amazing quality device, works perfectly, exceeded all expectations!!!",2024-05-11 21:46:27.942647,1,1
+R001040,S00017,P0047,5,"Absolutely incredible tool, changed my life, everyone needs this, 5/5 stars!!!",2024-05-12 01:39:22.477965,1,1
+R001027,S00015,P0047,5,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-12 03:59:07.572503,1,1
+R001049,S00018,P0047,5,"Best purchase ever!!! This product is perfect in every way, highly recommend to all!!!",2024-05-12 06:15:55.903860,1,1
+R001042,S00017,P0047,5,"AMAZING product!!! Best item I have EVER purchased, 5 stars, buy it now!!!",2024-05-12 12:51:20.331665,1,1
+R001029,S00015,P0047,5,"Absolutely incredible item, changed my life, everyone needs this, 5/5 stars!!!",2024-05-12 13:30:34.363777,1,1
+R001045,S00018,P0047,5,"Best purchase ever!!! This item is perfect in every way, highly recommend to all!!!",2024-05-12 14:08:33.403414,1,1
+R001035,S00016,P0047,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-12 17:04:49.368149,1,1
+R001036,S00016,P0047,5,"AMAZING product!!! Best accessory I have EVER purchased, 5 stars, buy it now!!!",2024-05-12 21:27:40.945480,1,1
+R001181,SL00001,P0011,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-12 23:39:44.274151,0,1
+R001047,S00018,P0047,5,"Best purchase ever!!! This tool is perfect in every way, highly recommend to all!!!",2024-05-13 04:36:13.838493,1,1
+R001048,S00018,P0047,5,"AMAZING product!!! Best item I have EVER purchased, 5 stars, buy it now!!!",2024-05-13 05:26:22.303784,1,1
+R001052,S00019,P0047,5,"AMAZING product!!! Best accessory I have EVER purchased, 5 stars, buy it now!!!",2024-05-13 11:26:51.824873,1,1
+R000187,U00057,P0054,4,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-13 12:00:00.000000,0,0
+R001055,S00019,P0047,5,"Wow just wow, this accessory is a game changer, perfect, 5 stars, must buy immediately!!!",2024-05-13 17:23:22.160012,1,1
+R001054,S00019,P0047,5,"Wow just wow, this device is a game changer, perfect, 5 stars, must buy immediately!!!",2024-05-13 18:18:21.199021,1,1
+R000820,U00233,P0040,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-14 01:00:00.000000,0,0
+R001031,S00015,P0047,5,"Absolutely incredible gadget, changed my life, everyone needs this, 5/5 stars!!!",2024-05-14 01:53:29.635137,1,1
+R001057,S00019,P0047,5,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-05-14 03:39:26.937049,1,1
+R000389,U00112,P0005,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-05-14 05:00:00.000000,0,0
+R001041,S00017,P0047,5,"Absolutely incredible product, changed my life, everyone needs this, 5/5 stars!!!",2024-05-14 05:08:24.024730,1,1
+R001034,S00016,P0047,5,"AMAZING product!!! Best device I have EVER purchased, 5 stars, buy it now!!!",2024-05-14 06:45:58.500185,1,1
+R000103,U00029,P0059,3,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-05-14 08:00:00.000000,0,0
+R001056,S00019,P0047,5,"Wow just wow, this product is a game changer, perfect, 5 stars, must buy immediately!!!",2024-05-14 09:35:14.587784,1,1
+R001030,S00015,P0047,5,"Five stars!!! Amazing quality tool, works perfectly, exceeded all expectations!!!",2024-05-14 10:12:32.228956,1,1
+R001028,S00015,P0047,5,"Best purchase ever!!! This product is perfect in every way, highly recommend to all!!!",2024-05-14 15:40:47.093571,1,1
+R001053,S00019,P0047,5,"Five stars!!! Amazing quality item, works perfectly, exceeded all expectations!!!",2024-05-14 17:46:19.988263,1,1
+R000538,U00155,P0035,2,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-05-15 04:00:00.000000,0,0
+R001179,SL00001,P0005,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-15 06:43:28.676897,0,1
+R000445,U00129,P0009,2,"The button on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-05-15 10:00:00.000000,0,0
+R000011,U00005,P0005,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-15 11:00:00.000000,0,0
+R000438,U00127,P0058,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-16 13:00:00.000000,0,0
+R000843,U00239,P0031,2,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-16 23:00:00.000000,0,0
+R001114,S00029,P0028,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-17 00:00:00.000000,0,1
+R000292,U00086,P0021,3,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-17 09:00:00.000000,0,0
+R000288,U00086,P0025,3,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-05-17 17:00:00.000000,0,0
+R000283,U00083,P0047,4,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-05-18 12:00:00.000000,0,0
+R000746,U00212,P0055,4,"I bought this gadget last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-05-18 14:00:00.000000,0,0
+R000104,U00030,P0004,3,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-05-18 16:00:00.000000,0,0
+R000656,U00191,P0048,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-18 20:00:00.000000,0,0
+R000566,U00166,P0015,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-19 23:00:00.000000,0,0
+R000939,S00000,P0048,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-20 00:00:00.000000,0,1
+R000766,U00219,P0047,4,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-05-20 04:00:00.000000,0,0
+R000401,U00115,P0025,4,"I bought this item last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-05-20 06:00:00.000000,0,0
+R000175,U00053,P0048,3,"I bought this accessory last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-05-21 15:00:00.000000,0,0
+R000471,U00135,P0053,2,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-05-22 02:00:00.000000,0,0
+R000429,U00123,P0018,3,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-05-22 05:00:00.000000,0,0
+R000366,U00106,P0029,2,"The casing on mine arrived slightly scratched, otherwise a reasonable item.",2024-05-22 23:00:00.000000,0,0
+R000511,U00147,P0038,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-05-23 05:00:00.000000,0,0
+R000882,U00250,P0054,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-23 05:00:00.000000,0,0
+R000243,U00074,P0052,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-05-23 09:00:00.000000,0,0
+R000716,U00204,P0026,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-23 10:00:00.000000,0,0
+R000880,U00250,P0001,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-05-23 13:00:00.000000,0,0
+R000222,U00065,P0040,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-05-23 21:00:00.000000,0,0
+R000332,U00096,P0007,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-23 22:00:00.000000,0,0
+R000289,U00086,P0041,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-05-24 07:00:00.000000,0,0
+R000279,U00082,P0048,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-24 16:00:00.000000,0,0
+R000572,U00168,P0037,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-05-24 22:00:00.000000,0,0
+R000420,U00121,P0009,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-05-25 14:00:00.000000,0,0
+R000192,U00058,P0054,3,"The screen on mine arrived slightly scratched, otherwise a reasonable device.",2024-05-25 22:00:00.000000,0,0
+R000392,U00112,P0013,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-25 23:00:00.000000,0,0
+R001172,S00039,P0046,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-05-26 00:00:00.000000,0,1
+R000825,U00234,P0013,3,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-26 01:00:00.000000,0,0
+R000417,U00121,P0052,2,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-05-26 07:00:00.000000,0,0
+R000811,U00231,P0007,4,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-05-27 13:00:00.000000,0,0
+R000340,U00097,P0023,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-27 13:00:00.000000,0,0
+R001187,SL00003,P0017,4,"I bought this product last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-05-27 17:03:16.915983,1,1
+R000527,U00152,P0044,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-27 20:00:00.000000,0,0
+R000278,U00082,P0035,3,"The button on mine arrived slightly scratched, otherwise a reasonable item.",2024-05-28 02:00:00.000000,0,0
+R001154,S00036,P0020,3,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-05-29 00:00:00.000000,0,1
+R000362,U00105,P0027,3,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-05-29 05:00:00.000000,0,0
+R000423,U00122,P0020,3,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-29 10:00:00.000000,0,0
+R000539,U00155,P0008,2,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-05-29 11:00:00.000000,0,0
+R000623,U00182,P0045,2,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-05-29 17:00:00.000000,0,0
+R000023,U00009,P0003,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-29 20:00:00.000000,0,0
+R000081,U00026,P0015,4,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-30 08:00:00.000000,0,0
+R000541,U00157,P0008,3,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-05-30 09:00:00.000000,0,0
+R000206,U00061,P0005,5,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-30 19:00:00.000000,0,0
+R001153,S00036,P0035,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-05-31 00:00:00.000000,0,1
+R001141,S00033,P0050,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-05-31 00:00:00.000000,0,1
+R000736,U00210,P0033,3,"The button on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-05-31 04:00:00.000000,0,0
+R000643,U00188,P0011,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-05-31 04:00:00.000000,0,0
+R001180,SL00001,P0022,4,"The battery on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-05-31 07:10:59.392758,0,1
+R000667,U00194,P0004,3,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-05-31 12:00:00.000000,0,0
+R000378,U00110,P0030,5,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-06-01 07:00:00.000000,0,0
+R000120,U00036,P0025,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-06-01 18:00:00.000000,0,0
+R001188,SL00003,P0045,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-06-02 23:58:54.471553,0,1
+R000409,U00117,P0020,3,"The button on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-06-03 04:00:00.000000,0,0
+R000780,U00224,P0046,5,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-06-04 19:00:00.000000,0,0
+R000497,U00143,P0002,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-06-04 19:00:00.000000,0,0
+R000532,U00153,P0045,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-06-05 10:00:00.000000,0,0
+R000873,U00249,P0004,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-06-05 11:00:00.000000,0,0
+R000494,U00142,P0004,5,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-06-05 15:00:00.000000,0,0
+R000456,U00131,P0033,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-06-06 00:00:00.000000,0,0
+R001140,S00033,P0016,4,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-06-06 00:00:00.000000,0,1
+R001124,S00031,P0021,3,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-06 00:00:00.000000,0,1
+R000163,U00048,P0026,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-06-06 15:00:00.000000,0,0
+R000608,U00178,P0041,1,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-06-06 18:00:00.000000,0,0
+R000246,U00074,P0028,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-06-06 18:00:00.000000,0,0
+R001094,S00026,P0020,2,"The cable on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-06-07 00:00:00.000000,0,1
+R000709,U00202,P0012,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-06-07 18:00:00.000000,0,0
+R000058,U00020,P0042,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-06-07 23:00:00.000000,0,0
+R001189,SL00003,P0021,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-06-08 06:30:30.278315,0,1
+R000124,U00038,P0032,5,"The battery on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-06-08 09:00:00.000000,0,0
+R000808,U00230,P0049,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-06-08 18:00:00.000000,0,0
+R000488,U00140,P0039,2,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-06-08 23:00:00.000000,0,0
+R000343,U00098,P0054,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-06-09 03:00:00.000000,0,0
+R000513,U00148,P0027,1,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-09 07:00:00.000000,0,0
+R000233,U00069,P0016,4,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-09 11:00:00.000000,0,0
+R000631,U00184,P0046,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-06-10 01:00:00.000000,0,0
+R000731,U00207,P0003,2,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-06-10 03:00:00.000000,0,0
+R000555,U00162,P0049,3,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-06-10 21:00:00.000000,0,0
+R000030,U00011,P0027,3,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-11 09:00:00.000000,0,0
+R000916,U00259,P0001,4,"The screen on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-06-11 16:00:00.000000,0,0
+R000588,U00173,P0059,2,"The screen on mine arrived slightly scratched, otherwise a reasonable tool.",2024-06-12 08:00:00.000000,0,0
+R000885,U00252,P0045,1,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-12 09:00:00.000000,0,0
+R000598,U00176,P0015,2,"I bought this item last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-06-12 09:00:00.000000,0,0
+R000509,U00146,P0018,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-06-12 19:00:00.000000,0,0
+R001071,S00021,P0046,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-06-13 00:00:00.000000,0,1
+R000003,U00001,P0001,4,"I bought this tool last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-06-13 08:00:00.000000,0,0
+R000130,U00040,P0018,2,"The screen on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-06-14 19:00:00.000000,0,0
+R000036,U00012,P0033,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-06-15 04:00:00.000000,0,0
+R000360,U00105,P0054,3,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-15 05:00:00.000000,0,0
+R000470,U00135,P0009,1,"The strap on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-06-15 09:00:00.000000,0,0
+R000862,U00245,P0050,3,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-06-15 18:00:00.000000,0,0
+R000131,U00040,P0035,4,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-06-16 10:00:00.000000,0,0
+R000018,U00007,P0022,3,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-06-16 13:00:00.000000,0,0
+R000150,U00045,P0006,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-06-16 18:00:00.000000,0,0
+R000426,U00122,P0009,2,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-17 15:00:00.000000,0,0
+R001190,SL00003,P0031,4,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-06-17 16:38:36.233323,0,1
+R000250,U00075,P0055,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-06-17 17:00:00.000000,0,0
+R000297,U00087,P0002,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-06-19 06:00:00.000000,0,0
+R000181,U00056,P0016,2,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-20 03:00:00.000000,0,0
+R000282,U00083,P0020,3,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-06-20 17:00:00.000000,0,0
+R000641,U00187,P0039,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-06-22 14:00:00.000000,0,0
+R000505,U00145,P0024,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-06-23 03:00:00.000000,0,0
+R000126,U00039,P0046,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-06-23 09:00:00.000000,0,0
+R000102,U00029,P0058,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-06-23 10:00:00.000000,0,0
+R000489,U00140,P0022,3,"I bought this item last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-06-23 10:00:00.000000,0,0
+R000810,U00231,P0005,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-06-24 13:00:00.000000,0,0
+R000248,U00074,P0029,5,"I bought this gadget last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-06-24 16:00:00.000000,0,0
+R000298,U00087,P0020,3,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-06-24 23:00:00.000000,0,0
+R000045,U00016,P0031,4,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-06-25 18:00:00.000000,0,0
+R000733,U00207,P0040,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-06-25 22:00:00.000000,0,0
+R000800,U00229,P0042,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-06-26 02:00:00.000000,0,0
+R000399,U00115,P0002,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-06-26 06:00:00.000000,0,0
+R000763,U00219,P0050,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-06-26 10:00:00.000000,0,0
+R000046,U00016,P0052,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-06-26 11:00:00.000000,0,0
+R000356,U00104,P0046,2,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-06-27 15:00:00.000000,0,0
+R000968,S00005,P0022,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-06-28 00:00:00.000000,0,1
+R000184,U00056,P0010,1,"The screen on mine arrived slightly scratched, otherwise a reasonable item.",2024-06-29 02:00:00.000000,0,0
+R000299,U00087,P0050,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-06-29 02:00:00.000000,0,0
+R000167,U00050,P0031,4,"The casing on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-06-29 02:00:00.000000,0,0
+R000041,U00013,P0048,3,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-06-29 07:00:00.000000,0,0
+R000519,U00149,P0041,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-06-29 09:00:00.000000,0,0
+R000910,U00258,P0040,5,"The battery on mine arrived slightly scratched, otherwise a reasonable product.",2024-06-30 00:00:00.000000,0,0
+R000436,U00126,P0015,3,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-06-30 11:00:00.000000,0,0
+R000487,U00140,P0000,3,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-06-30 12:00:00.000000,0,0
+R000515,U00148,P0040,1,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-06-30 15:00:00.000000,0,0
+R000768,U00219,P0020,4,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-06-30 22:00:00.000000,0,0
+R000029,U00011,P0037,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-01 03:00:00.000000,0,0
+R000191,U00058,P0000,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-01 12:00:00.000000,0,0
+R000845,U00239,P0045,1,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-01 15:00:00.000000,0,0
+R000613,U00179,P0018,4,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-07-01 18:00:00.000000,0,0
+R000781,U00225,P0021,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-01 23:00:00.000000,0,0
+R000684,U00198,P0028,3,"I bought this item last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-07-02 23:00:00.000000,0,0
+R000822,U00234,P0024,1,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-07-03 05:00:00.000000,0,0
+R000558,U00163,P0051,3,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-07-03 13:00:00.000000,0,0
+R000069,U00022,P0012,2,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-07-03 16:00:00.000000,0,0
+R000388,U00112,P0001,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-03 18:00:00.000000,0,0
+R000685,U00198,P0038,1,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-03 20:00:00.000000,0,0
+R000091,U00027,P0000,2,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-07-03 21:00:00.000000,0,0
+R000154,U00046,P0053,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-04 09:00:00.000000,0,0
+R000245,U00074,P0018,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-04 11:00:00.000000,0,0
+R000751,U00215,P0053,1,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-07-04 17:00:00.000000,0,0
+R000341,U00098,P0012,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-04 21:00:00.000000,0,0
+R000652,U00190,P0029,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-07-05 07:00:00.000000,0,0
+R000841,U00238,P0010,4,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-07-05 12:00:00.000000,0,0
+R000891,U00254,P0005,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-05 22:00:00.000000,0,0
+R000237,U00071,P0018,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-06 10:00:00.000000,0,0
+R000164,U00049,P0048,3,"The screen on mine arrived slightly scratched, otherwise a reasonable tool.",2024-07-06 17:00:00.000000,0,0
+R000240,U00072,P0040,3,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-07-07 07:00:00.000000,0,0
+R000316,U00091,P0043,3,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-07-07 11:00:00.000000,0,0
+R000849,U00241,P0052,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-07 14:00:00.000000,0,0
+R000475,U00136,P0001,2,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-07-07 22:00:00.000000,0,0
+R000060,U00021,P0015,3,"The strap on mine arrived slightly scratched, otherwise a reasonable product.",2024-07-08 07:00:00.000000,0,0
+R000448,U00130,P0058,4,"I bought this product last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-07-08 11:00:00.000000,0,0
+R000662,U00192,P0028,4,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-07-08 20:00:00.000000,0,0
+R000451,U00130,P0041,3,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-07-09 05:00:00.000000,0,0
+R000764,U00219,P0040,4,"I bought this product last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-07-09 10:00:00.000000,0,0
+R000785,U00226,P0020,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-09 11:00:00.000000,0,0
+R000747,U00213,P0057,4,"I bought this device last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-07-09 21:00:00.000000,0,0
+R000801,U00229,P0022,4,"The strap on mine arrived slightly scratched, otherwise a reasonable product.",2024-07-11 01:00:00.000000,0,0
+R000603,U00176,P0012,5,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-07-11 14:00:00.000000,0,0
+R000815,U00232,P0020,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-11 20:00:00.000000,0,0
+R000416,U00120,P0049,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-11 23:00:00.000000,0,0
+R000338,U00097,P0002,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-12 15:00:00.000000,0,0
+R000575,U00169,P0018,5,"The cable on mine arrived slightly scratched, otherwise a reasonable product.",2024-07-12 18:00:00.000000,0,0
+R000503,U00144,P0049,3,"The screen on mine arrived slightly scratched, otherwise a reasonable item.",2024-07-12 21:00:00.000000,0,0
+R000687,U00198,P0045,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-12 23:00:00.000000,0,0
+R000699,U00201,P0026,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-13 04:00:00.000000,0,0
+R000323,U00092,P0058,1,"The button on mine arrived slightly scratched, otherwise a reasonable tool.",2024-07-13 04:00:00.000000,0,0
+R000707,U00202,P0055,4,"I bought this device last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-07-13 07:00:00.000000,0,0
+R000578,U00169,P0054,3,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-07-13 11:00:00.000000,0,0
+R000317,U00091,P0048,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-14 10:00:00.000000,0,0
+R000440,U00128,P0035,1,"The button on mine arrived slightly scratched, otherwise a reasonable product.",2024-07-14 23:00:00.000000,0,0
+R000938,S00000,P0031,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-15 00:00:00.000000,0,1
+R000483,U00139,P0040,5,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-07-16 04:00:00.000000,0,0
+R000678,U00197,P0034,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-18 03:00:00.000000,0,0
+R000468,U00135,P0057,3,"The casing on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-07-18 13:00:00.000000,0,0
+R000834,U00237,P0009,3,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-07-19 05:00:00.000000,0,0
+R000923,L00006,P0009,3,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-07-19 16:01:42.396969,0,0
+R000931,L00014,P0039,5,"I bought this tool last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-07-19 17:10:48.898710,0,0
+R000932,L00015,P0017,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-19 21:33:12.492455,0,0
+R000929,L00012,P0034,3,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-07-19 21:55:36.568642,0,0
+R000930,L00013,P0034,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-19 23:28:36.981243,0,0
+R000933,L00016,P0009,4,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-07-20 02:02:26.750288,0,0
+R000921,L00004,P0034,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-07-20 05:41:30.646075,0,0
+R000917,L00000,P0034,1,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-07-20 05:45:03.819669,0,0
+R000372,U00109,P0023,4,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-07-20 12:00:00.000000,0,0
+R000918,L00001,P0009,4,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-07-20 13:30:36.807426,0,0
+R000201,U00060,P0022,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-20 15:00:00.000000,0,0
+R000397,U00114,P0017,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-07-20 19:00:00.000000,0,0
+R000520,U00150,P0043,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-20 20:00:00.000000,0,0
+R000125,U00039,P0043,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-20 22:00:00.000000,0,0
+R000926,L00009,P0034,4,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-07-20 23:37:48.599824,0,0
+R000934,L00017,P0034,3,"I bought this device last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-07-21 00:11:45.349749,0,0
+R000925,L00008,P0009,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-21 02:17:24.015477,0,0
+R000054,U00018,P0037,2,"I bought this gadget last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-07-21 08:00:00.000000,0,0
+R000274,U00081,P0021,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-21 09:00:00.000000,0,0
+R000021,U00009,P0053,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-21 13:00:00.000000,0,0
+R000795,U00228,P0045,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-07-21 14:00:00.000000,0,0
+R000595,U00175,P0019,5,"I bought this tool last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-07-21 14:00:00.000000,0,0
+R000207,U00061,P0015,4,"The casing on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-07-21 19:00:00.000000,0,0
+R000922,L00005,P0039,4,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-07-21 19:20:38.265639,0,0
+R000178,U00054,P0015,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-21 20:00:00.000000,0,0
+R000919,L00002,P0017,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-21 22:04:33.615240,0,0
+R001032,S00015,P0032,4,"The battery on mine arrived slightly scratched, otherwise a reasonable device.",2024-07-22 00:00:00.000000,0,1
+R000924,L00007,P0034,4,"I bought this product last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-07-22 02:03:26.308393,0,0
+R000928,L00011,P0009,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-07-22 02:14:22.486246,0,0
+R000754,U00215,P0043,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-22 05:00:00.000000,0,0
+R000525,U00151,P0041,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-22 07:00:00.000000,0,0
+R000927,L00010,P0017,4,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-07-22 10:29:54.740897,0,0
+R000920,L00003,P0034,4,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-07-22 16:45:51.351903,0,0
+R000870,U00248,P0046,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-23 08:00:00.000000,0,0
+R000622,U00181,P0017,3,"I bought this gadget last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-07-23 12:00:00.000000,0,0
+R000232,U00068,P0027,3,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-07-23 19:00:00.000000,0,0
+R000750,U00214,P0019,3,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-07-24 03:00:00.000000,0,0
+R000835,U00237,P0032,3,"The strap on mine arrived slightly scratched, otherwise a reasonable device.",2024-07-24 08:00:00.000000,0,0
+R000570,U00167,P0005,2,"The strap on mine arrived slightly scratched, otherwise a reasonable tool.",2024-07-24 11:00:00.000000,0,0
+R000020,U00008,P0029,3,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-07-25 18:00:00.000000,0,0
+R000462,U00133,P0043,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-26 09:00:00.000000,0,0
+R000254,U00075,P0048,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-07-26 14:00:00.000000,0,0
+R000151,U00046,P0057,5,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-07-27 03:00:00.000000,0,0
+R000047,U00016,P0004,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-07-27 11:00:00.000000,0,0
+R000116,U00035,P0014,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-27 11:00:00.000000,0,0
+R000535,U00155,P0023,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-07-27 23:00:00.000000,0,0
+R000907,U00258,P0007,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-07-28 02:00:00.000000,0,0
+R000884,U00251,P0025,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-07-28 11:00:00.000000,0,0
+R000418,U00121,P0041,2,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-07-29 19:00:00.000000,0,0
+R000961,S00004,P0025,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-07-30 00:00:00.000000,0,1
+R000037,U00013,P0056,2,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-07-30 04:00:00.000000,0,0
+R000772,U00223,P0057,4,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-07-30 09:00:00.000000,0,0
+R000629,U00184,P0034,4,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-07-31 00:00:00.000000,0,0
+R000889,U00253,P0014,5,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-07-31 06:00:00.000000,0,0
+R000290,U00086,P0005,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-07-31 09:00:00.000000,0,0
+R000886,U00253,P0004,4,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-07-31 12:00:00.000000,0,0
+R000268,U00079,P0007,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-01 03:00:00.000000,0,0
+R000407,U00117,P0004,2,"The screen on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-08-01 04:00:00.000000,0,0
+R000806,U00230,P0025,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-01 07:00:00.000000,0,0
+R001100,S00027,P0046,5,"I bought this device last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-08-02 00:00:00.000000,0,1
+R000129,U00039,P0012,3,"The strap on mine arrived slightly scratched, otherwise a reasonable product.",2024-08-02 16:00:00.000000,0,0
+R000190,U00058,P0021,2,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-02 20:00:00.000000,0,0
+R000044,U00015,P0015,1,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-03 00:00:00.000000,0,0
+R001113,S00029,P0015,5,"Wow just wow, this item is a game changer, perfect, 5 stars, must buy immediately!!!",2024-08-03 07:05:41.113025,1,1
+R000818,U00232,P0002,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-03 08:00:00.000000,0,0
+R001090,S00025,P0015,5,"Wow just wow, this accessory is a game changer, perfect, 5 stars, must buy immediately!!!",2024-08-03 08:00:36.920007,1,1
+R001093,S00026,P0015,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-08-03 08:58:58.088479,1,1
+R000217,U00064,P0014,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-03 09:00:00.000000,0,0
+R001086,S00025,P0015,5,"Absolutely incredible tool, changed my life, everyone needs this, 5/5 stars!!!",2024-08-03 10:15:40.067070,1,1
+R001102,S00028,P0015,5,"Best purchase ever!!! This tool is perfect in every way, highly recommend to all!!!",2024-08-03 16:18:48.421614,1,1
+R001092,S00026,P0015,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-03 20:48:15.932823,1,1
+R000672,U00195,P0055,3,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-08-04 00:00:00.000000,0,0
+R001088,S00025,P0015,5,"Five stars!!! Amazing quality device, works perfectly, exceeded all expectations!!!",2024-08-04 02:34:53.789124,1,1
+R000085,U00026,P0039,5,"The screen on mine arrived slightly scratched, otherwise a reasonable device.",2024-08-04 03:00:00.000000,0,0
+R001105,S00028,P0015,4,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-08-04 04:16:53.094139,1,1
+R000490,U00141,P0040,3,"The button on mine arrived slightly scratched, otherwise a reasonable product.",2024-08-04 05:00:00.000000,0,0
+R001096,S00027,P0015,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-04 05:34:46.107646,1,1
+R001108,S00029,P0015,5,"Five stars!!! Amazing quality device, works perfectly, exceeded all expectations!!!",2024-08-04 07:07:02.833936,1,1
+R001097,S00027,P0015,5,"AMAZING product!!! Best item I have EVER purchased, 5 stars, buy it now!!!",2024-08-04 09:32:09.577661,1,1
+R000792,U00227,P0035,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-04 18:00:00.000000,0,0
+R001110,S00029,P0015,5,"Five stars!!! Amazing quality device, works perfectly, exceeded all expectations!!!",2024-08-04 21:30:03.893291,1,1
+R001112,S00029,P0015,5,"Five stars!!! Amazing quality item, works perfectly, exceeded all expectations!!!",2024-08-04 21:37:25.103629,1,1
+R000974,S00006,P0059,3,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-08-05 00:00:00.000000,0,1
+R001033,S00015,P0056,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-05 00:00:00.000000,0,1
+R001107,S00028,P0015,5,"Five stars!!! Amazing quality accessory, works perfectly, exceeded all expectations!!!",2024-08-05 13:56:30.292482,1,1
+R001111,S00029,P0015,5,"Best purchase ever!!! This product is perfect in every way, highly recommend to all!!!",2024-08-05 19:37:43.320339,1,1
+R001087,S00025,P0015,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-05 22:00:58.688977,1,1
+R001091,S00026,P0015,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-08-05 22:09:26.496117,1,1
+R001099,S00027,P0015,5,"Absolutely incredible gadget, changed my life, everyone needs this, 5/5 stars!!!",2024-08-05 23:59:27.307411,1,1
+R001103,S00028,P0015,4,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-08-06 05:37:54.550946,1,1
+R001104,S00028,P0015,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-08-06 07:53:00.432693,1,1
+R001109,S00029,P0015,5,"AMAZING product!!! Best accessory I have EVER purchased, 5 stars, buy it now!!!",2024-08-06 08:17:08.049648,1,1
+R000334,U00096,P0002,4,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-08-06 11:00:00.000000,0,0
+R001089,S00025,P0015,5,"AMAZING product!!! Best gadget I have EVER purchased, 5 stars, buy it now!!!",2024-08-06 11:58:52.287667,1,1
+R001098,S00027,P0015,5,"Five stars!!! Amazing quality accessory, works perfectly, exceeded all expectations!!!",2024-08-06 14:36:28.417369,1,1
+R001106,S00028,P0015,5,"Best purchase ever!!! This tool is perfect in every way, highly recommend to all!!!",2024-08-06 16:00:38.160646,1,1
+R000118,U00036,P0041,4,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-08-06 22:00:00.000000,0,0
+R000635,U00186,P0033,1,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-06 22:00:00.000000,0,0
+R000172,U00052,P0003,1,"The casing on mine arrived slightly scratched, otherwise a reasonable product.",2024-08-07 02:00:00.000000,0,0
+R000260,U00077,P0016,4,"I bought this device last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-08-07 05:00:00.000000,0,0
+R000675,U00195,P0005,4,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-08-07 18:00:00.000000,0,0
+R000258,U00077,P0005,4,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-08-08 23:00:00.000000,0,0
+R000814,U00232,P0028,3,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-09 02:00:00.000000,0,0
+R000322,U00092,P0032,3,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-09 11:00:00.000000,0,0
+R000568,U00166,P0057,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-09 15:00:00.000000,0,0
+R000139,U00041,P0032,1,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-09 19:00:00.000000,0,0
+R000080,U00025,P0037,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-09 20:00:00.000000,0,0
+R000524,U00151,P0020,1,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-08-09 22:00:00.000000,0,0
+R000412,U00119,P0027,3,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-08-10 04:00:00.000000,0,0
+R000354,U00102,P0047,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-08-10 10:00:00.000000,0,0
+R000473,U00136,P0023,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-08-11 00:00:00.000000,0,0
+R000110,U00033,P0055,5,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-08-12 02:00:00.000000,0,0
+R000115,U00034,P0047,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-12 04:00:00.000000,0,0
+R000649,U00189,P0010,4,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-12 10:00:00.000000,0,0
+R000450,U00130,P0005,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-13 00:00:00.000000,0,0
+R000848,U00240,P0029,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-13 16:00:00.000000,0,0
+R000553,U00162,P0041,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-13 18:00:00.000000,0,0
+R000657,U00191,P0015,3,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-13 22:00:00.000000,0,0
+R001163,S00037,P0057,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-14 00:00:00.000000,0,1
+R000838,U00238,P0041,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-14 15:00:00.000000,0,0
+R000853,U00241,P0002,5,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-14 16:00:00.000000,0,0
+R000602,U00176,P0007,2,"I bought this accessory last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-08-14 22:00:00.000000,0,0
+R000596,U00175,P0050,2,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-08-15 03:00:00.000000,0,0
+R000327,U00094,P0023,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-15 18:00:00.000000,0,0
+R000039,U00013,P0016,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-16 14:00:00.000000,0,0
+R000500,U00143,P0050,3,"I bought this accessory last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-08-16 17:00:00.000000,0,0
+R000752,U00215,P0054,3,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-08-17 14:00:00.000000,0,0
+R000144,U00044,P0044,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-17 20:00:00.000000,0,0
+R000495,U00142,P0058,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-18 08:00:00.000000,0,0
+R000031,U00011,P0057,2,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-08-18 08:00:00.000000,0,0
+R000108,U00032,P0042,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-08-19 06:00:00.000000,0,0
+R000225,U00067,P0040,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-19 08:00:00.000000,0,0
+R000157,U00047,P0057,2,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-08-19 09:00:00.000000,0,0
+R000329,U00094,P0047,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-21 00:00:00.000000,0,0
+R000579,U00170,P0032,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-21 04:00:00.000000,0,0
+R000101,U00029,P0031,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-21 06:00:00.000000,0,0
+R000587,U00173,P0020,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-21 12:00:00.000000,0,0
+R000617,U00181,P0030,4,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-08-21 20:00:00.000000,0,0
+R001080,S00023,P0006,3,"I bought this gadget last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-08-22 00:00:00.000000,0,1
+R000831,U00236,P0039,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-08-22 11:00:00.000000,0,0
+R000540,U00156,P0028,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-22 16:00:00.000000,0,0
+R000897,U00256,P0040,2,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-22 23:00:00.000000,0,0
+R000639,U00186,P0054,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-23 14:00:00.000000,0,0
+R000004,U00001,P0005,4,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-08-23 19:00:00.000000,0,0
+R000342,U00098,P0007,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-24 08:00:00.000000,0,0
+R000755,U00215,P0057,2,"The cable on mine arrived slightly scratched, otherwise a reasonable device.",2024-08-24 10:00:00.000000,0,0
+R000153,U00046,P0027,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-24 22:00:00.000000,0,0
+R000669,U00194,P0027,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-25 02:00:00.000000,0,0
+R000082,U00026,P0037,1,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-25 20:00:00.000000,0,0
+R000393,U00113,P0017,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-26 10:00:00.000000,0,0
+R000484,U00140,P0009,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-26 16:00:00.000000,0,0
+R000107,U00031,P0009,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-08-26 19:00:00.000000,0,0
+R000914,U00259,P0049,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-26 22:00:00.000000,0,0
+R000373,U00109,P0051,4,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-26 23:00:00.000000,0,0
+R000712,U00203,P0015,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-27 00:00:00.000000,0,0
+R000739,U00210,P0022,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-08-27 02:00:00.000000,0,0
+R000812,U00231,P0053,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-08-27 17:00:00.000000,0,0
+R000061,U00021,P0050,4,"The screen on mine arrived slightly scratched, otherwise a reasonable item.",2024-08-29 08:00:00.000000,0,0
+R000025,U00010,P0041,3,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-08-29 13:00:00.000000,0,0
+R000026,U00010,P0031,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-08-30 09:00:00.000000,0,0
+R000017,U00007,P0023,3,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-08-30 16:00:00.000000,0,0
+R000347,U00100,P0050,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-31 03:00:00.000000,0,0
+R000864,U00246,P0045,3,"The casing on mine arrived slightly scratched, otherwise a reasonable item.",2024-08-31 08:00:00.000000,0,0
+R000344,U00099,P0015,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-08-31 15:00:00.000000,0,0
+R000013,U00005,P0018,4,"I bought this accessory last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-09-01 10:00:00.000000,0,0
+R000186,U00056,P0055,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-01 18:00:00.000000,0,0
+R000215,U00063,P0014,1,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-02 05:00:00.000000,0,0
+R000051,U00017,P0028,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-09-02 06:00:00.000000,0,0
+R000496,U00142,P0015,2,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-09-02 23:00:00.000000,0,0
+R000690,U00199,P0038,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-03 06:00:00.000000,0,0
+R000597,U00175,P0046,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-03 16:00:00.000000,0,0
+R000234,U00069,P0042,3,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-09-03 19:00:00.000000,0,0
+R001039,S00016,P0053,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-09-04 00:00:00.000000,0,1
+R000530,U00153,P0042,2,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-09-04 19:00:00.000000,0,0
+R000090,U00027,P0004,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-05 09:00:00.000000,0,0
+R000894,U00255,P0048,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-08 12:00:00.000000,0,0
+R001069,S00021,P0017,5,"Best purchase ever!!! This gadget is perfect in every way, highly recommend to all!!!",2024-09-09 03:23:43.003186,1,1
+R001061,S00020,P0017,5,"Wow just wow, this tool is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-09 04:49:51.333228,1,1
+R001078,S00023,P0017,5,"AMAZING product!!! Best item I have EVER purchased, 5 stars, buy it now!!!",2024-09-09 15:12:31.056372,1,1
+R001059,S00020,P0017,5,"Best purchase ever!!! This item is perfect in every way, highly recommend to all!!!",2024-09-09 20:00:10.137730,1,1
+R000658,U00191,P0043,3,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-09-09 23:00:00.000000,0,0
+R001079,S00023,P0017,5,"AMAZING product!!! Best tool I have EVER purchased, 5 stars, buy it now!!!",2024-09-09 23:01:15.692352,1,1
+R001074,S00022,P0017,5,"Wow just wow, this tool is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-10 02:50:17.530132,1,1
+R001139,S00033,P0040,5,"Best purchase ever!!! This device is perfect in every way, highly recommend to all!!!",2024-09-10 04:46:33.059841,1,1
+R001065,S00021,P0017,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-09-10 05:56:11.940801,1,1
+R001075,S00022,P0017,5,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-09-10 06:24:18.588991,1,1
+R001064,S00020,P0017,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-09-10 06:50:25.042717,1,1
+R001115,S00030,P0040,5,"Wow just wow, this tool is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-10 09:14:16.436160,1,1
+R001129,S00032,P0040,5,"Wow just wow, this product is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-10 09:19:11.483404,1,1
+R001060,S00020,P0017,5,"Five stars!!! Amazing quality gadget, works perfectly, exceeded all expectations!!!",2024-09-10 09:27:05.107244,1,1
+R001073,S00022,P0017,5,"Absolutely incredible gadget, changed my life, everyone needs this, 5/5 stars!!!",2024-09-10 10:31:10.354324,1,1
+R001066,S00021,P0017,5,"Absolutely incredible tool, changed my life, everyone needs this, 5/5 stars!!!",2024-09-10 16:41:05.246056,1,1
+R001123,S00031,P0040,4,"The strap on mine arrived slightly scratched, otherwise a reasonable device.",2024-09-10 16:52:44.061772,1,1
+R001062,S00020,P0017,5,"AMAZING product!!! Best accessory I have EVER purchased, 5 stars, buy it now!!!",2024-09-10 18:29:59.177100,1,1
+R001134,S00033,P0040,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-09-10 18:52:26.913587,1,1
+R001067,S00021,P0017,5,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-09-10 20:03:42.977364,1,1
+R001063,S00020,P0017,5,"Absolutely incredible device, changed my life, everyone needs this, 5/5 stars!!!",2024-09-10 23:41:07.675500,1,1
+R001131,S00032,P0040,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-09-11 00:37:25.065106,1,1
+R001082,S00024,P0017,5,"Absolutely incredible device, changed my life, everyone needs this, 5/5 stars!!!",2024-09-11 01:15:19.492652,1,1
+R000001,U00000,P0047,2,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-09-11 02:00:00.000000,0,0
+R000242,U00073,P0003,4,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-09-11 04:00:00.000000,0,0
+R001118,S00031,P0040,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-11 05:52:39.130680,1,1
+R001120,S00031,P0040,5,"Best purchase ever!!! This tool is perfect in every way, highly recommend to all!!!",2024-09-11 07:57:45.029061,1,1
+R001142,S00034,P0040,5,"Wow just wow, this accessory is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-11 08:16:53.109700,1,1
+R001068,S00021,P0017,5,"Five stars!!! Amazing quality item, works perfectly, exceeded all expectations!!!",2024-09-11 09:00:49.963188,1,1
+R001121,S00031,P0040,5,"Absolutely incredible item, changed my life, everyone needs this, 5/5 stars!!!",2024-09-11 09:39:00.476789,1,1
+R001084,S00024,P0017,5,"Wow just wow, this accessory is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-11 11:37:24.480948,1,1
+R001083,S00024,P0017,5,"Five stars!!! Amazing quality accessory, works perfectly, exceeded all expectations!!!",2024-09-11 13:42:59.769249,1,1
+R000913,U00259,P0030,3,"I bought this item last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-09-11 16:00:00.000000,0,0
+R001077,S00023,P0017,5,"AMAZING product!!! Best tool I have EVER purchased, 5 stars, buy it now!!!",2024-09-11 17:26:42.700316,1,1
+R001070,S00021,P0017,5,"AMAZING product!!! Best accessory I have EVER purchased, 5 stars, buy it now!!!",2024-09-11 20:06:58.667105,1,1
+R001058,S00020,P0017,5,"Best purchase ever!!! This accessory is perfect in every way, highly recommend to all!!!",2024-09-11 20:39:45.502735,1,1
+R001135,S00033,P0040,5,"Best purchase ever!!! This accessory is perfect in every way, highly recommend to all!!!",2024-09-11 21:21:01.474250,1,1
+R001144,S00034,P0040,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-09-11 21:58:58.826392,1,1
+R001127,S00032,P0040,5,"Wow just wow, this item is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-12 01:47:25.330565,1,1
+R001143,S00034,P0040,5,"Wow just wow, this item is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-12 02:34:10.734611,1,1
+R000033,U00012,P0024,5,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-09-12 06:00:00.000000,0,0
+R001117,S00030,P0040,5,"Best purchase ever!!! This product is perfect in every way, highly recommend to all!!!",2024-09-12 10:54:49.098674,1,1
+R001126,S00032,P0040,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-09-12 11:15:39.969180,1,1
+R001076,S00023,P0017,4,"The casing on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-09-12 13:19:39.330601,1,1
+R001137,S00033,P0040,5,"Wow just wow, this product is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-12 15:54:40.056602,1,1
+R001119,S00031,P0040,5,"Absolutely incredible gadget, changed my life, everyone needs this, 5/5 stars!!!",2024-09-12 16:25:55.974092,1,1
+R001136,S00033,P0040,5,"Wow just wow, this tool is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-12 20:28:11.108046,1,1
+R001128,S00032,P0040,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-12 22:17:50.405055,1,1
+R001138,S00033,P0040,5,"AMAZING product!!! Best item I have EVER purchased, 5 stars, buy it now!!!",2024-09-13 00:44:50.748502,1,1
+R001122,S00031,P0040,4,"The button on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-09-13 01:57:55.725814,1,1
+R001116,S00030,P0040,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-13 02:19:54.437729,1,1
+R001133,S00033,P0040,4,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-09-13 05:27:49.244946,1,1
+R001130,S00032,P0040,5,"Wow just wow, this accessory is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-13 07:19:30.543711,1,1
+R000161,U00048,P0034,3,"The screen on mine arrived slightly scratched, otherwise a reasonable tool.",2024-09-13 15:00:00.000000,0,0
+R000350,U00101,P0011,1,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-09-13 22:00:00.000000,0,0
+R000507,U00145,P0011,2,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-09-14 01:00:00.000000,0,0
+R000458,U00132,P0043,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-09-14 07:00:00.000000,0,0
+R000504,U00145,P0057,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-09-15 04:00:00.000000,0,0
+R000759,U00217,P0035,4,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-09-15 14:00:00.000000,0,0
+R000638,U00186,P0008,1,"I bought this accessory last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-09-16 00:00:00.000000,0,0
+R000577,U00169,P0000,1,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-09-16 15:00:00.000000,0,0
+R000697,U00200,P0003,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-16 17:00:00.000000,0,0
+R000146,U00045,P0057,2,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-09-16 23:00:00.000000,0,0
+R000210,U00062,P0023,2,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-09-17 18:00:00.000000,0,0
+R000127,U00039,P0047,4,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-09-18 22:00:00.000000,0,0
+R000726,U00206,P0008,2,"I bought this item last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-09-20 01:00:00.000000,0,0
+R000028,U00011,P0047,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-20 11:00:00.000000,0,0
+R000562,U00164,P0038,5,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-09-20 22:00:00.000000,0,0
+R000275,U00081,P0059,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-09-21 13:00:00.000000,0,0
+R000263,U00078,P0048,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-09-21 16:00:00.000000,0,0
+R000911,U00259,P0011,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-21 20:00:00.000000,0,0
+R000776,U00223,P0036,4,"The strap on mine arrived slightly scratched, otherwise a reasonable product.",2024-09-22 06:00:00.000000,0,0
+R000333,U00096,P0008,3,"The button on mine arrived slightly scratched, otherwise a reasonable item.",2024-09-22 11:00:00.000000,0,0
+R000052,U00017,P0057,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-22 18:00:00.000000,0,0
+R000988,S00008,P0020,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-23 00:00:00.000000,0,1
+R000284,U00083,P0030,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-09-23 18:00:00.000000,0,0
+R000651,U00189,P0043,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-23 20:00:00.000000,0,0
+R000655,U00191,P0013,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-09-24 05:00:00.000000,0,0
+R000653,U00190,P0047,4,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-09-24 08:00:00.000000,0,0
+R000817,U00232,P0019,5,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-09-24 19:00:00.000000,0,0
+R001051,S00018,P0033,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-25 00:00:00.000000,0,1
+R000145,U00045,P0000,3,"The casing on mine arrived slightly scratched, otherwise a reasonable device.",2024-09-25 04:00:00.000000,0,0
+R000498,U00143,P0018,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-09-25 11:00:00.000000,0,0
+R000560,U00164,P0013,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-09-25 16:00:00.000000,0,0
+R001044,S00017,P0016,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-26 00:00:00.000000,0,1
+R000071,U00023,P0026,3,"The casing on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-09-26 03:00:00.000000,0,0
+R000387,U00112,P0040,3,"The strap on mine arrived slightly scratched, otherwise a reasonable item.",2024-09-26 06:00:00.000000,0,0
+R000211,U00063,P0029,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-26 19:00:00.000000,0,0
+R000229,U00067,P0051,3,"The strap on mine arrived slightly scratched, otherwise a reasonable item.",2024-09-27 14:00:00.000000,0,0
+R000170,U00050,P0021,1,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-28 00:00:00.000000,0,0
+R000287,U00085,P0055,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-09-28 00:00:00.000000,0,0
+R000940,S00001,P0040,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-09-28 02:09:06.922936,1,1
+R000499,U00143,P0012,4,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-09-28 03:00:00.000000,0,0
+R000949,S00002,P0040,5,"Wow just wow, this gadget is a game changer, perfect, 5 stars, must buy immediately!!!",2024-09-28 06:43:18.729200,1,1
+R000956,S00003,P0040,5,"Absolutely incredible gadget, changed my life, everyone needs this, 5/5 stars!!!",2024-09-28 08:31:30.989745,1,1
+R000950,S00002,P0040,5,"Best purchase ever!!! This item is perfect in every way, highly recommend to all!!!",2024-09-28 09:30:33.111033,1,1
+R000879,U00250,P0029,4,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-09-28 10:00:00.000000,0,0
+R000960,S00004,P0040,5,"I bought this device last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-09-28 11:01:38.961599,1,1
+R000957,S00004,P0040,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-09-28 11:45:51.736964,1,1
+R000959,S00004,P0040,5,"Absolutely incredible gadget, changed my life, everyone needs this, 5/5 stars!!!",2024-09-28 17:47:51.109089,1,1
+R000556,U00163,P0030,1,"The strap on mine arrived slightly scratched, otherwise a reasonable product.",2024-09-28 19:00:00.000000,0,0
+R000010,U00004,P0046,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-09-28 23:00:00.000000,0,0
+R000955,S00003,P0040,4,"I bought this item last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-09-28 23:24:54.040842,1,1
+R000952,S00002,P0040,5,"Absolutely incredible accessory, changed my life, everyone needs this, 5/5 stars!!!",2024-09-28 23:51:02.568320,1,1
+R000937,S00000,P0040,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-09-29 02:14:36.809373,1,1
+R000936,S00000,P0040,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-09-29 05:27:25.498639,1,1
+R000062,U00021,P0051,2,"I bought this accessory last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-09-29 06:00:00.000000,0,0
+R000574,U00169,P0030,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-09-29 21:00:00.000000,0,0
+R000945,S00001,P0040,5,"Five stars!!! Amazing quality gadget, works perfectly, exceeded all expectations!!!",2024-09-29 21:29:18.595491,1,1
+R000942,S00001,P0040,5,"Five stars!!! Amazing quality gadget, works perfectly, exceeded all expectations!!!",2024-09-29 23:40:59.894455,1,1
+R000951,S00002,P0040,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-30 00:13:59.553905,1,1
+R000958,S00004,P0040,5,"AMAZING product!!! Best gadget I have EVER purchased, 5 stars, buy it now!!!",2024-09-30 04:24:32.911658,1,1
+R000573,U00169,P0043,2,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-09-30 06:00:00.000000,0,0
+R000203,U00061,P0000,1,"The battery on mine arrived slightly scratched, otherwise a reasonable item.",2024-09-30 08:00:00.000000,0,0
+R000948,S00002,P0040,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-09-30 15:03:55.096448,1,1
+R000944,S00001,P0040,5,"AMAZING product!!! Best tool I have EVER purchased, 5 stars, buy it now!!!",2024-09-30 15:04:34.398742,1,1
+R000954,S00003,P0040,5,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-09-30 16:00:14.997044,1,1
+R000943,S00001,P0040,5,"Absolutely incredible tool, changed my life, everyone needs this, 5/5 stars!!!",2024-09-30 16:02:55.401803,1,1
+R000941,S00001,P0040,5,"Best purchase ever!!! This gadget is perfect in every way, highly recommend to all!!!",2024-09-30 20:18:13.045641,1,1
+R000740,U00210,P0017,3,"I bought this gadget last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-09-30 21:00:00.000000,0,0
+R000059,U00021,P0030,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-09-30 21:00:00.000000,0,0
+R000390,U00112,P0047,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-01 02:00:00.000000,0,0
+R000953,S00002,P0040,5,"AMAZING product!!! Best device I have EVER purchased, 5 stars, buy it now!!!",2024-10-01 02:22:29.286892,1,1
+R000935,S00000,P0040,5,"Five stars!!! Amazing quality product, works perfectly, exceeded all expectations!!!",2024-10-01 13:52:01.728017,1,1
+R000852,U00241,P0048,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-10-01 19:00:00.000000,0,0
+R000796,U00228,P0027,2,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-10-01 21:00:00.000000,0,0
+R000430,U00123,P0004,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-02 06:00:00.000000,0,0
+R000295,U00087,P0057,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-02 21:00:00.000000,0,0
+R000038,U00013,P0046,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-03 17:00:00.000000,0,0
+R000805,U00229,P0002,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-03 19:00:00.000000,0,0
+R000400,U00115,P0014,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-03 19:00:00.000000,0,0
+R000612,U00178,P0039,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-04 05:00:00.000000,0,0
+R000601,U00176,P0044,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-04 11:00:00.000000,0,0
+R000875,U00249,P0034,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-10-04 13:00:00.000000,0,0
+R000626,U00183,P0048,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-04 13:00:00.000000,0,0
+R000308,U00090,P0018,5,"The cable on mine arrived slightly scratched, otherwise a reasonable product.",2024-10-04 18:00:00.000000,0,0
+R000002,U00001,P0002,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-10-04 18:00:00.000000,0,0
+R000198,U00059,P0054,1,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-04 21:00:00.000000,0,0
+R001006,S00011,P0001,5,"Best purchase ever!!! This gadget is perfect in every way, highly recommend to all!!!",2024-10-05 02:18:58.364445,1,1
+R001013,S00012,P0001,5,"Wow just wow, this item is a game changer, perfect, 5 stars, must buy immediately!!!",2024-10-05 05:29:18.733723,1,1
+R001019,S00013,P0001,5,"Wow just wow, this product is a game changer, perfect, 5 stars, must buy immediately!!!",2024-10-05 07:49:56.890844,1,1
+R001005,S00011,P0001,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-05 07:53:11.588415,1,1
+R001016,S00013,P0001,4,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-10-05 10:49:31.327421,1,1
+R001017,S00013,P0001,5,"Five stars!!! Amazing quality device, works perfectly, exceeded all expectations!!!",2024-10-05 11:21:24.263559,1,1
+R001018,S00013,P0001,5,"Best purchase ever!!! This accessory is perfect in every way, highly recommend to all!!!",2024-10-05 13:18:32.553238,1,1
+R001021,S00014,P0001,5,"Wow just wow, this gadget is a game changer, perfect, 5 stars, must buy immediately!!!",2024-10-05 13:28:04.111548,1,1
+R001001,S00010,P0001,5,"Wow just wow, this accessory is a game changer, perfect, 5 stars, must buy immediately!!!",2024-10-05 18:29:58.354457,1,1
+R000117,U00035,P0001,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-05 19:00:00.000000,0,0
+R001010,S00011,P0001,5,"Absolutely incredible product, changed my life, everyone needs this, 5/5 stars!!!",2024-10-05 23:41:47.893205,1,1
+R001009,S00011,P0001,5,"Absolutely incredible item, changed my life, everyone needs this, 5/5 stars!!!",2024-10-06 09:23:30.650048,1,1
+R000359,U00105,P0030,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-06 18:00:00.000000,0,0
+R001024,S00014,P0001,5,"Five stars!!! Amazing quality device, works perfectly, exceeded all expectations!!!",2024-10-06 18:34:27.103584,1,1
+R000708,U00202,P0004,3,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-10-06 20:00:00.000000,0,0
+R001020,S00013,P0001,5,"I bought this accessory last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-10-06 22:46:18.969524,1,1
+R001022,S00014,P0001,5,"Best purchase ever!!! This tool is perfect in every way, highly recommend to all!!!",2024-10-07 02:38:29.538071,1,1
+R001000,S00010,P0001,5,"AMAZING product!!! Best gadget I have EVER purchased, 5 stars, buy it now!!!",2024-10-07 06:39:30.910712,1,1
+R001025,S00014,P0001,5,"AMAZING product!!! Best item I have EVER purchased, 5 stars, buy it now!!!",2024-10-07 06:46:44.305564,1,1
+R000995,S00010,P0001,5,"Absolutely incredible item, changed my life, everyone needs this, 5/5 stars!!!",2024-10-07 10:35:14.138449,1,1
+R001014,S00012,P0001,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-07 13:50:10.010094,1,1
+R001026,S00014,P0001,5,"Five stars!!! Amazing quality product, works perfectly, exceeded all expectations!!!",2024-10-07 14:08:46.456351,1,1
+R000998,S00010,P0001,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-10-07 17:52:43.167628,1,1
+R001011,S00012,P0001,5,"AMAZING product!!! Best accessory I have EVER purchased, 5 stars, buy it now!!!",2024-10-07 19:42:04.186045,1,1
+R000858,U00244,P0038,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-07 21:00:00.000000,0,0
+R000996,S00010,P0001,5,"AMAZING product!!! Best product I have EVER purchased, 5 stars, buy it now!!!",2024-10-07 23:55:39.039305,1,1
+R000967,S00005,P0050,5,"I bought this item last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-10-08 00:00:00.000000,0,1
+R001012,S00012,P0001,5,"Wow just wow, this device is a game changer, perfect, 5 stars, must buy immediately!!!",2024-10-08 00:44:10.370999,1,1
+R001004,S00011,P0001,5,"Best purchase ever!!! This gadget is perfect in every way, highly recommend to all!!!",2024-10-08 03:35:12.859570,1,1
+R001007,S00011,P0001,5,"Five stars!!! Amazing quality item, works perfectly, exceeded all expectations!!!",2024-10-08 03:56:21.180088,1,1
+R001023,S00014,P0001,5,"Five stars!!! Amazing quality tool, works perfectly, exceeded all expectations!!!",2024-10-08 07:00:37.514314,1,1
+R001008,S00011,P0001,5,"Wow just wow, this item is a game changer, perfect, 5 stars, must buy immediately!!!",2024-10-08 08:32:20.304623,1,1
+R001015,S00013,P0001,4,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-10-08 09:14:59.813234,1,1
+R000997,S00010,P0001,5,"Absolutely incredible item, changed my life, everyone needs this, 5/5 stars!!!",2024-10-08 13:38:58.530585,1,1
+R000999,S00010,P0001,4,"I bought this item last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-10-08 16:40:29.456446,1,1
+R000824,U00234,P0045,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-08 19:00:00.000000,0,0
+R000383,U00110,P0057,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-09 00:00:00.000000,0,0
+R000000,U00000,P0008,4,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-10-09 10:00:00.000000,0,0
+R000586,U00172,P0021,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-10-09 15:00:00.000000,0,0
+R000533,U00154,P0007,3,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-10-10 18:00:00.000000,0,0
+R000066,U00022,P0055,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-10 23:00:00.000000,0,0
+R000008,U00003,P0009,4,"The button on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-10-11 04:00:00.000000,0,0
+R000472,U00136,P0005,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-11 10:00:00.000000,0,0
+R000098,U00029,P0054,3,"I bought this gadget last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-10-11 15:00:00.000000,0,0
+R000034,U00012,P0038,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-11 17:00:00.000000,0,0
+R000346,U00099,P0050,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-10-11 20:00:00.000000,0,0
+R000909,U00258,P0031,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-10-12 04:00:00.000000,0,0
+R000550,U00160,P0010,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-12 05:00:00.000000,0,0
+R000840,U00238,P0035,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-10-12 09:00:00.000000,0,0
+R000508,U00146,P0034,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-12 17:00:00.000000,0,0
+R000113,U00034,P0042,2,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-10-12 19:00:00.000000,0,0
+R000554,U00162,P0013,1,"I bought this item last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-10-12 22:00:00.000000,0,0
+R000674,U00195,P0024,3,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-10-12 22:00:00.000000,0,0
+R000722,U00205,P0021,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-10-13 23:00:00.000000,0,0
+R000235,U00070,P0000,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-10-14 04:00:00.000000,0,0
+R000437,U00127,P0023,3,"The button on mine arrived slightly scratched, otherwise a reasonable item.",2024-10-14 07:00:00.000000,0,0
+R000676,U00196,P0048,3,"I bought this product last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-10-14 15:00:00.000000,0,0
+R000377,U00109,P0037,2,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-10-14 19:00:00.000000,0,0
+R000559,U00164,P0029,5,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-10-14 21:00:00.000000,0,0
+R000813,U00232,P0044,4,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-10-15 14:00:00.000000,0,0
+R000079,U00025,P0020,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-17 05:00:00.000000,0,0
+R000446,U00129,P0021,4,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-10-17 20:00:00.000000,0,0
+R000545,U00158,P0019,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-17 21:00:00.000000,0,0
+R000286,U00085,P0026,5,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-10-18 02:00:00.000000,0,0
+R000166,U00049,P0054,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-10-18 07:00:00.000000,0,0
+R000713,U00203,P0035,2,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-10-18 14:00:00.000000,0,0
+R000877,U00250,P0050,2,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-10-18 15:00:00.000000,0,0
+R000379,U00110,P0014,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-19 11:00:00.000000,0,0
+R000888,U00253,P0037,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-19 20:00:00.000000,0,0
+R000077,U00025,P0034,2,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-10-20 11:00:00.000000,0,0
+R000901,U00256,P0039,2,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-10-21 08:00:00.000000,0,0
+R000883,U00251,P0003,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-21 21:00:00.000000,0,0
+R000696,U00200,P0031,1,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-10-21 22:00:00.000000,0,0
+R000055,U00018,P0014,4,"I bought this device last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-10-22 07:00:00.000000,0,0
+R000671,U00194,P0044,3,"The strap on mine arrived slightly scratched, otherwise a reasonable product.",2024-10-22 09:00:00.000000,0,0
+R000640,U00187,P0011,4,"The battery on mine arrived slightly scratched, otherwise a reasonable item.",2024-10-22 17:00:00.000000,0,0
+R000259,U00077,P0020,4,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-10-23 07:00:00.000000,0,0
+R000580,U00170,P0028,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-23 08:00:00.000000,0,0
+R000443,U00129,P0038,3,"The battery on mine arrived slightly scratched, otherwise a reasonable device.",2024-10-23 11:00:00.000000,0,0
+R000895,U00255,P0055,5,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-10-23 17:00:00.000000,0,0
+R000727,U00206,P0046,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-10-24 01:00:00.000000,0,0
+R000084,U00026,P0002,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-25 02:00:00.000000,0,0
+R000724,U00206,P0022,3,"I bought this tool last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-10-25 14:00:00.000000,0,0
+R000324,U00093,P0050,1,"The button on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-10-25 17:00:00.000000,0,0
+R000887,U00253,P0008,2,"I bought this gadget last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-10-25 17:00:00.000000,0,0
+R000386,U00111,P0019,3,"The casing on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-10-26 02:00:00.000000,0,0
+R000865,U00247,P0040,4,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-10-26 11:00:00.000000,0,0
+R000208,U00062,P0042,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-10-27 00:00:00.000000,0,0
+R000874,U00249,P0050,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-10-27 04:00:00.000000,0,0
+R000384,U00111,P0044,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-27 04:00:00.000000,0,0
+R000721,U00205,P0012,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-27 06:00:00.000000,0,0
+R000493,U00142,P0050,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-27 15:00:00.000000,0,0
+R001072,S00021,P0056,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-10-28 00:00:00.000000,0,1
+R000829,U00235,P0038,3,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-10-29 06:00:00.000000,0,0
+R000006,U00002,P0048,3,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-10-29 15:00:00.000000,0,0
+R000466,U00134,P0012,4,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-10-29 23:00:00.000000,0,0
+R000782,U00225,P0053,5,"The battery on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-10-30 01:00:00.000000,0,0
+R000371,U00108,P0005,3,"The screen on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-10-30 04:00:00.000000,0,0
+R000014,U00005,P0053,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-10-30 19:00:00.000000,0,0
+R000534,U00154,P0012,3,"I bought this product last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-10-31 05:00:00.000000,0,0
+R000142,U00043,P0029,2,"The battery on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-11-01 00:00:00.000000,0,0
+R000855,U00242,P0051,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-11-01 01:00:00.000000,0,0
+R000134,U00040,P0026,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-11-01 02:00:00.000000,0,0
+R000833,U00237,P0044,2,"The battery on mine arrived slightly scratched, otherwise a reasonable item.",2024-11-01 03:00:00.000000,0,0
+R000168,U00050,P0001,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-03 01:00:00.000000,0,0
+R000680,U00197,P0058,2,"I bought this accessory last month and honestly it works fine, though the strap feels a bit flimsy after regular use.",2024-11-03 07:00:00.000000,0,0
+R000185,U00056,P0038,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-11-03 15:00:00.000000,0,0
+R000753,U00215,P0024,3,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-11-03 20:00:00.000000,0,0
+R000358,U00105,P0003,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-03 23:00:00.000000,0,0
+R000336,U00096,P0019,2,"Decent item for the price. Shipping took a while but the product itself is okay, not amazing.",2024-11-04 00:00:00.000000,0,0
+R000188,U00057,P0043,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-04 11:00:00.000000,0,0
+R000304,U00088,P0014,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-11-04 14:00:00.000000,0,0
+R000140,U00042,P0051,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-11-06 01:00:00.000000,0,0
+R000625,U00182,P0006,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-06 10:00:00.000000,0,0
+R000189,U00057,P0038,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-06 12:00:00.000000,0,0
+R000306,U00089,P0024,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-06 14:00:00.000000,0,0
+R000128,U00039,P0042,1,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-11-06 15:00:00.000000,0,0
+R000551,U00160,P0042,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-06 20:00:00.000000,0,0
+R000779,U00224,P0015,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-11-07 05:00:00.000000,0,0
+R000355,U00103,P0028,4,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-11-07 07:00:00.000000,0,0
+R000415,U00120,P0021,5,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-11-07 18:00:00.000000,0,0
+R001174,SL00000,P0001,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-11-08 00:41:33.174975,1,1
+R000441,U00129,P0054,2,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-11-08 04:00:00.000000,0,0
+R000171,U00051,P0005,4,"The strap on mine arrived slightly scratched, otherwise a reasonable device.",2024-11-08 08:00:00.000000,0,0
+R000100,U00029,P0032,3,"I bought this product last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-11-09 11:00:00.000000,0,0
+R000281,U00083,P0002,2,"The screen on mine arrived slightly scratched, otherwise a reasonable item.",2024-11-09 21:00:00.000000,0,0
+R000363,U00106,P0038,3,Good value overall. My only complaint is the strap feels cheap compared to competitors.,2024-11-10 04:00:00.000000,0,0
+R000410,U00118,P0051,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-10 07:00:00.000000,0,0
+R000867,U00247,P0026,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-11-10 19:00:00.000000,0,0
+R000385,U00111,P0048,3,"Mixed feelings about this one. The battery broke within two weeks, but customer support replaced it quickly.",2024-11-10 19:00:00.000000,0,0
+R000819,U00233,P0011,3,"The cable on mine arrived slightly scratched, otherwise a reasonable item.",2024-11-11 17:00:00.000000,0,0
+R000480,U00138,P0007,5,"The battery on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-11-11 22:00:00.000000,0,0
+R000774,U00223,P0059,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-11-12 08:00:00.000000,0,0
+R000422,U00121,P0006,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-11-12 14:00:00.000000,0,0
+R001002,S00010,P0016,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-11-14 00:00:00.000000,0,1
+R000273,U00080,P0012,2,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-11-14 06:00:00.000000,0,0
+R000455,U00131,P0056,2,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-11-14 15:00:00.000000,0,0
+R001146,S00035,P0007,5,"Wow just wow, this item is a game changer, perfect, 5 stars, must buy immediately!!!",2024-11-15 01:10:00.737007,1,1
+R000065,U00022,P0051,2,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-11-15 04:00:00.000000,0,0
+R001169,S00039,P0007,4,Good value overall. My only complaint is the battery feels cheap compared to competitors.,2024-11-15 04:53:02.854969,1,1
+R000565,U00165,P0007,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-11-15 06:00:00.000000,0,0
+R001155,S00037,P0007,5,"Five stars!!! Amazing quality tool, works perfectly, exceeded all expectations!!!",2024-11-15 06:08:09.175990,1,1
+R000313,U00091,P0012,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-11-15 08:00:00.000000,0,0
+R000394,U00114,P0038,1,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-11-15 23:00:00.000000,0,0
+R000892,U00255,P0049,4,"Mixed feelings about this one. The screen broke within two weeks, but customer support replaced it quickly.",2024-11-15 23:00:00.000000,0,0
+R001151,S00036,P0007,5,"Mixed feelings about this one. The casing broke within two weeks, but customer support replaced it quickly.",2024-11-16 05:45:02.343552,1,1
+R001157,S00037,P0007,5,"Wow just wow, this tool is a game changer, perfect, 5 stars, must buy immediately!!!",2024-11-16 05:47:45.557862,1,1
+R000442,U00129,P0042,1,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-11-16 08:00:00.000000,0,0
+R001156,S00037,P0007,5,"Absolutely incredible accessory, changed my life, everyone needs this, 5/5 stars!!!",2024-11-16 12:18:27.129522,1,1
+R001171,S00039,P0007,5,"AMAZING product!!! Best tool I have EVER purchased, 5 stars, buy it now!!!",2024-11-16 14:58:20.111223,1,1
+R001159,S00037,P0007,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-11-16 16:06:36.187796,1,1
+R000868,U00247,P0024,5,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-16 23:00:00.000000,0,0
+R001161,S00037,P0007,5,"Wow just wow, this product is a game changer, perfect, 5 stars, must buy immediately!!!",2024-11-17 00:37:16.889393,1,1
+R001150,S00036,P0007,5,"Wow just wow, this product is a game changer, perfect, 5 stars, must buy immediately!!!",2024-11-17 02:05:37.953073,1,1
+R001152,S00036,P0007,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-11-17 05:43:09.227573,1,1
+R001165,S00038,P0007,5,"Absolutely incredible accessory, changed my life, everyone needs this, 5/5 stars!!!",2024-11-17 08:25:26.316616,1,1
+R000269,U00079,P0041,2,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-11-17 12:00:00.000000,0,0
+R001160,S00037,P0007,5,"AMAZING product!!! Best item I have EVER purchased, 5 stars, buy it now!!!",2024-11-17 13:25:46.640889,1,1
+R001149,S00036,P0007,5,"AMAZING product!!! Best item I have EVER purchased, 5 stars, buy it now!!!",2024-11-17 18:09:25.753472,1,1
+R000912,U00259,P0048,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-11-17 19:00:00.000000,0,0
+R001148,S00035,P0007,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-11-17 21:51:11.545420,1,1
+R001166,S00038,P0007,5,"Five stars!!! Amazing quality accessory, works perfectly, exceeded all expectations!!!",2024-11-18 03:12:35.485189,1,1
+R001170,S00039,P0007,5,"Five stars!!! Amazing quality accessory, works perfectly, exceeded all expectations!!!",2024-11-18 09:59:19.650116,1,1
+R001147,S00035,P0007,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-18 10:02:01.586172,1,1
+R000826,U00235,P0033,2,"The strap on mine arrived slightly scratched, otherwise a reasonable tool.",2024-11-18 12:00:00.000000,0,0
+R001164,S00038,P0007,5,"Wow just wow, this tool is a game changer, perfect, 5 stars, must buy immediately!!!",2024-11-18 13:20:20.629566,1,1
+R000370,U00107,P0025,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-18 15:00:00.000000,0,0
+R000148,U00045,P0055,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-18 17:00:00.000000,0,0
+R001175,SL00000,P0028,5,"The cable on mine arrived slightly scratched, otherwise a reasonable accessory.",2024-11-18 17:07:55.721938,0,1
+R001158,S00037,P0007,5,"I bought this gadget last month and honestly it works fine, though the screen feels a bit flimsy after regular use.",2024-11-18 17:41:48.470764,1,1
+R000218,U00064,P0023,4,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-11-19 04:00:00.000000,0,0
+R000664,U00193,P0032,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-19 11:00:00.000000,0,0
+R000783,U00225,P0039,4,"Mixed feelings about this one. The button broke within two weeks, but customer support replaced it quickly.",2024-11-19 15:00:00.000000,0,0
+R001176,SL00000,P0034,4,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-11-19 22:53:23.241816,0,1
+R000405,U00116,P0035,4,"I bought this item last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-11-20 11:00:00.000000,0,0
+R000872,U00249,P0054,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-20 15:00:00.000000,0,0
+R000632,U00184,P0054,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-11-21 00:00:00.000000,0,0
+R000896,U00256,P0013,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-21 05:00:00.000000,0,0
+R000337,U00097,P0017,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-11-21 17:00:00.000000,0,0
+R000404,U00116,P0032,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-22 15:00:00.000000,0,0
+R000492,U00142,P0022,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-23 11:00:00.000000,0,0
+R000765,U00219,P0009,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-23 23:00:00.000000,0,0
+R000633,U00185,P0059,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-25 13:00:00.000000,0,0
+R000837,U00238,P0044,3,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-11-25 19:00:00.000000,0,0
+R000301,U00088,P0031,2,"I bought this item last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-11-25 23:00:00.000000,0,0
+R000097,U00028,P0000,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-11-25 23:00:00.000000,0,0
+R000647,U00188,P0015,4,"I bought this accessory last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-11-26 23:00:00.000000,0,0
+R000182,U00056,P0049,1,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-11-27 01:00:00.000000,0,0
+R000517,U00148,P0003,4,"I bought this device last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-11-27 18:00:00.000000,0,0
+R000836,U00238,P0034,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-11-28 03:00:00.000000,0,0
+R000349,U00101,P0051,4,"I bought this device last month and honestly it works fine, though the cable feels a bit flimsy after regular use.",2024-11-28 04:00:00.000000,0,0
+R000478,U00137,P0057,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-11-29 12:00:00.000000,0,0
+R000053,U00017,P0033,2,"I bought this tool last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-11-30 05:00:00.000000,0,0
+R000132,U00040,P0008,2,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-12-01 18:00:00.000000,0,0
+R000582,U00170,P0035,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-02 07:00:00.000000,0,0
+R000605,U00177,P0030,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-02 11:00:00.000000,0,0
+R000165,U00049,P0024,3,Good value overall. My only complaint is the casing feels cheap compared to competitors.,2024-12-02 12:00:00.000000,0,0
+R001038,S00016,P0035,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-03 00:00:00.000000,0,1
+R000096,U00028,P0033,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-12-03 02:00:00.000000,0,0
+R000644,U00188,P0008,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-03 04:00:00.000000,0,0
+R000043,U00014,P0059,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-03 13:00:00.000000,0,0
+R000433,U00125,P0030,3,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-03 13:00:00.000000,0,0
+R000431,U00124,P0028,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-04 14:00:00.000000,0,0
+R000141,U00042,P0012,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-04 18:00:00.000000,0,0
+R000424,U00122,P0055,3,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-12-04 22:00:00.000000,0,0
+R001162,S00037,P0028,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-05 00:00:00.000000,0,1
+R000413,U00119,P0037,2,"The screen on mine arrived slightly scratched, otherwise a reasonable product.",2024-12-05 02:00:00.000000,0,0
+R000725,U00206,P0010,4,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-05 02:00:00.000000,0,0
+R000869,U00247,P0028,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-06 13:00:00.000000,0,0
+R000368,U00107,P0052,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-06 23:00:00.000000,0,0
+R000406,U00117,P0058,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-07 01:00:00.000000,0,0
+R000057,U00020,P0017,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-07 03:00:00.000000,0,0
+R000486,U00140,P0027,2,"Decent tool for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-07 04:00:00.000000,0,0
+R000291,U00086,P0054,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-12-07 11:00:00.000000,0,0
+R001132,S00032,P0038,3,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-12-08 00:00:00.000000,0,1
+R000729,U00207,P0029,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-08 21:00:00.000000,0,0
+R000309,U00090,P0044,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-09 02:00:00.000000,0,0
+R000610,U00178,P0044,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-09 04:00:00.000000,0,0
+R000315,U00091,P0016,2,"I bought this tool last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-12-09 21:00:00.000000,0,0
+R000830,U00236,P0058,3,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-09 22:00:00.000000,0,0
+R000467,U00134,P0051,4,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-10 03:00:00.000000,0,0
+R000682,U00197,P0052,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-11 06:00:00.000000,0,0
+R000339,U00097,P0044,5,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-11 08:00:00.000000,0,0
+R000482,U00138,P0015,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-11 09:00:00.000000,0,0
+R000453,U00131,P0053,4,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-11 09:00:00.000000,0,0
+R000861,U00245,P0048,3,"The button on mine arrived slightly scratched, otherwise a reasonable gadget.",2024-12-12 09:00:00.000000,0,0
+R000762,U00218,P0005,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-12-12 18:00:00.000000,0,0
+R000105,U00031,P0037,5,"The cable on mine arrived slightly scratched, otherwise a reasonable device.",2024-12-12 21:00:00.000000,0,0
+R000302,U00088,P0037,3,Good value overall. My only complaint is the cable feels cheap compared to competitors.,2024-12-13 01:00:00.000000,0,0
+R000319,U00092,P0056,4,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-12-13 03:00:00.000000,0,0
+R000663,U00193,P0008,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-13 15:00:00.000000,0,0
+R001043,S00017,P0011,2,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-14 00:00:00.000000,0,1
+R000294,U00087,P0019,2,"I bought this product last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-12-14 05:00:00.000000,0,0
+R000073,U00024,P0024,2,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-12-14 06:00:00.000000,0,0
+R000807,U00230,P0029,4,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-12-15 14:00:00.000000,0,0
+R000112,U00034,P0051,5,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-15 19:00:00.000000,0,0
+R000173,U00052,P0016,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-15 23:00:00.000000,0,0
+R000238,U00071,P0045,2,"Decent accessory for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-16 02:00:00.000000,0,0
+R000280,U00082,P0034,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-16 04:00:00.000000,0,0
+R000226,U00067,P0043,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-16 18:00:00.000000,0,0
+R000606,U00177,P0033,3,Good value overall. My only complaint is the screen feels cheap compared to competitors.,2024-12-17 10:00:00.000000,0,0
+R000199,U00059,P0015,2,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-17 18:00:00.000000,0,0
+R000076,U00025,P0047,2,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-18 14:00:00.000000,0,0
+R000469,U00135,P0032,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-20 16:00:00.000000,0,0
+R000454,U00131,P0047,4,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-21 01:00:00.000000,0,0
+R000799,U00228,P0004,4,"Decent gadget for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-21 10:00:00.000000,0,0
+R000352,U00102,P0003,3,"The cable on mine arrived slightly scratched, otherwise a reasonable tool.",2024-12-22 09:00:00.000000,0,0
+R000681,U00197,P0024,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-22 11:00:00.000000,0,0
+R000419,U00121,P0059,3,"Decent device for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-23 11:00:00.000000,0,0
+R000677,U00197,P0046,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-24 01:00:00.000000,0,0
+R000276,U00081,P0050,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-24 10:00:00.000000,0,0
+R000444,U00129,P0055,4,"Decent product for the price. Shipping took a while but the product itself is okay, not amazing.",2024-12-24 14:00:00.000000,0,0
+R000197,U00059,P0020,4,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-24 14:00:00.000000,0,0
+R000202,U00060,P0051,5,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-25 06:00:00.000000,0,0
+R000205,U00061,P0012,1,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-25 11:00:00.000000,0,0
+R000620,U00181,P0052,4,"I bought this accessory last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-12-25 21:00:00.000000,0,0
+R000679,U00197,P0027,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-26 00:00:00.000000,0,0
+R000947,S00001,P0015,5,"Not what I expected from the photos, the color is slightly different, but functionally it does the job.",2024-12-26 00:00:00.000000,0,1
+R000564,U00165,P0029,3,"Mixed feelings about this one. The cable broke within two weeks, but customer support replaced it quickly.",2024-12-26 02:00:00.000000,0,0
+R000749,U00213,P0036,5,"Mixed feelings about this one. The strap broke within two weeks, but customer support replaced it quickly.",2024-12-26 11:00:00.000000,0,0
+R000706,U00202,P0002,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-27 22:00:00.000000,0,0
+R000878,U00250,P0053,4,"I bought this item last month and honestly it works fine, though the casing feels a bit flimsy after regular use.",2024-12-28 10:00:00.000000,0,0
+R000711,U00203,P0025,1,Good value overall. My only complaint is the button feels cheap compared to competitors.,2024-12-28 18:00:00.000000,0,0
+R000616,U00180,P0022,4,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-28 23:00:00.000000,0,0
+R000457,U00131,P0002,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-28 23:00:00.000000,0,0
+R000851,U00241,P0034,2,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-29 00:00:00.000000,0,0
+R000522,U00151,P0023,3,Solid choice if you don't need anything fancy. I've used it daily for a few weeks and it's holding up.,2024-12-29 20:00:00.000000,0,0
+R000133,U00040,P0012,3,"I bought this product last month and honestly it works fine, though the button feels a bit flimsy after regular use.",2024-12-29 21:00:00.000000,0,0
+R000614,U00179,P0007,3,Works as described. Nothing special but nothing wrong either. Would consider buying again if it breaks.,2024-12-30 05:00:00.000000,0,0
+R000220,U00065,P0044,3,"Took a star off because the instructions were confusing, but once set up it runs fine.",2024-12-30 07:00:00.000000,0,0
+R000732,U00207,P0039,5,"I bought this gadget last month and honestly it works fine, though the battery feels a bit flimsy after regular use.",2024-12-30 10:00:00.000000,0,0
+R000516,U00148,P0050,3,"I compared this against two other brands before buying, this one had the best reviews for durability so far it's living up to that.",2024-12-30 14:00:00.000000,0,0
