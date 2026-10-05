@@ -1,5 +1,7 @@
 # Hybrid Detection of Shilling Attacks Using NLP and Graph Neural Networks
 
+> **Maintained by [Jennita S](https://github.com/Jennita-Santhakumar)** · [LinkedIn](https://linkedin.com/in/jennitas) · jennitasanthakumar0@gmail.com
+
 Detects fake/"shilling" product reviews — coordinated fake-review campaigns
 where a clique of accounts pumps a product's rating — by combining **NLP
 features** (sentiment, readability, text-duplication) with a **Graph Neural
@@ -184,3 +186,7 @@ Requirements: `selenium`, `pandas`, `beautifulsoup4`, `webdriver_manager`.
 
 **Disclaimer**: scraping Amazon may violate their Terms of Service. This is
 for educational purposes only — use responsibly and at your own risk.
+
+## Credits
+
+Developed by Kabilesh Rajaselvan with contributions from Jennita S.
